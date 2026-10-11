@@ -1,0 +1,28 @@
+{
+  "customization_module": "mods/codex/las22_shear_customization_experiment_m4",
+  "customization_source_sha256": "af90e63787321919a987f4d17a39f20b94ed7f78211be776117f271e61517e4f",
+  "customization_patch_sha256": "c4f2ded4d5e5ae536820b0ee4f6a324eb7d324733d35156a18b058b601534939",
+  "module": "mods/codex/hidden_equipment_combined",
+  "source_sha256": "5947cfb11f80c37d24c2fcd514adabcf8c1a4f98b55cf60129fc4b74c03a1af3",
+  "patch_sha256": "3ee24b3e355c76962b02e1b64c1c0bbeb49da6b50ca82d5bc28f4dc691a3e8fd",
+  "payload_bytes": 60621,
+  "archive_bytes": 60832,
+  "archive_readback_verified": true,
+  "target_count": 117,
+  "added_capes": 8,
+  "regression_checks": {
+    "registry": 62,
+    "native": 6,
+    "scope": 5,
+    "category": 8,
+    "customization": 12,
+    "shutdown": 7
+  },
+  "test_runtime": "Lupa LuaJIT 2.1",
+  "in_game_confirmation_pending": true,
+  "screenshot_added_capes": 8,
+  "cumulative_cape_additions_since_v0_1_13": 13,
+  "unnamed_cosmetic_candidates_added": 3,
+  "unnamed_cape_candidates_added": 6,
+  "clean_shutdown_restore": true
+}

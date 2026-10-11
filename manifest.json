@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "Guid": "c202a659-c1a8-4b12-9c66-a368f1953a09",
+  "Name": "Cut Content Adder",
+  "Description": "By Triways - Unlocks hidden weapons, stratagems, armours, helmets and capes, with LAS-22 Shear customization. Clean shutdown: no more crash when quitting the game.",
+  "Options": [
+    {
+      "Name": "Special rewards and hidden equipment with Shear customization",
+      "Description": "One combined installation. Disable previous combined and standalone Shear unlock/customization versions before deployment.",
+      "Include": [
+        "Addon"
+      ]
+    }
+  ]
+}

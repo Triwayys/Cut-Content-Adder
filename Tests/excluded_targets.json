@@ -1,0 +1,4878 @@
+{
+  "weapons": [
+    {
+      "name": "AR-11 Arbitrator",
+      "hi": 2829655733,
+      "lo": 1217574578,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR-2 Coyote",
+      "hi": 2218083129,
+      "lo": 1378652973,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR-23 Liberator",
+      "hi": 2525106624,
+      "lo": 54382180,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR-23A Liberator Carbine",
+      "hi": 2817400511,
+      "lo": 1492967199,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR-23C Liberator Concussive",
+      "hi": 3479115630,
+      "lo": 238169057,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR-23P Liberator Penetrator",
+      "hi": 1137381427,
+      "lo": 2518295158,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR-32 Pacifier",
+      "hi": 3156828470,
+      "lo": 1725917547,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR-59 Suppressor",
+      "hi": 1888395928,
+      "lo": 3357578192,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR-61 Tenderizer",
+      "hi": 3456514723,
+      "lo": 1033218066,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "AR/GL-21 One-Two",
+      "hi": 2840970474,
+      "lo": 1869431299,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "ARC-12 Blitzer",
+      "hi": 124638676,
+      "lo": 4097180164,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "BR-14 Adjudicator",
+      "hi": 1609345921,
+      "lo": 2677449704,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "CB-9 Exploding Crossbow",
+      "hi": 4103219104,
+      "lo": 1661615999,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "DBS-2 Double Freedom",
+      "hi": 1914112597,
+      "lo": 2717089777,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "FLAM-66 Torcher",
+      "hi": 1336998080,
+      "lo": 794150955,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "GL-15 Evictor",
+      "hi": 7226418,
+      "lo": 2075743230,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "JAR-5 Dominator",
+      "hi": 2163319126,
+      "lo": 3657047606,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "LAS-12 Sai",
+      "hi": 3361691501,
+      "lo": 1577607495,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "LAS-13 Trident",
+      "hi": 1015474289,
+      "lo": 2453617008,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "LAS-16 Sickle",
+      "hi": 2252730727,
+      "lo": 3016233890,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "LAS-17 Double-Edge Sickle",
+      "hi": 693889830,
+      "lo": 3696201713,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "LAS-5 Scythe",
+      "hi": 669916888,
+      "lo": 4143670102,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "M7S SMG",
+      "hi": 3195072013,
+      "lo": 2370044558,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "M90A Shotgun",
+      "hi": 2430452596,
+      "lo": 4108572502,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "MA5C Assault Rifle",
+      "hi": 1304261876,
+      "lo": 2626681875,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "MP-98 Knight",
+      "hi": 2507262545,
+      "lo": 4040880987,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "PLAS-1 Scorcher",
+      "hi": 4003849166,
+      "lo": 4058065940,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "PLAS-101 Purifier",
+      "hi": 4214888711,
+      "lo": 2257875082,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "PLAS-39 Accelerator Rifle",
+      "hi": 805707665,
+      "lo": 2940698462,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "R-2 Amendment",
+      "hi": 260268954,
+      "lo": 3100139877,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "R-36 Eruptor",
+      "hi": 3064984089,
+      "lo": 1432909439,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "R-6 Deadeye",
+      "hi": 3872993982,
+      "lo": 2205323382,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "R-63 Diligence",
+      "hi": 65436185,
+      "lo": 2960942371,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "R-63CS Diligence Counter Sniper",
+      "hi": 1282959237,
+      "lo": 3348972775,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "R-72 Censor",
+      "hi": 4029908072,
+      "lo": 3705367148,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "R/40-K Hot-Shot Marksman Rifle",
+      "hi": 448528224,
+      "lo": 3530269585,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-20 Halt",
+      "hi": 1311836959,
+      "lo": 3838126930,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-225 Breaker",
+      "hi": 1175993168,
+      "lo": 2518487848,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-225IE Breaker Incendiary",
+      "hi": 3240768755,
+      "lo": 1975343751,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-225SP Breaker Spray&Pray",
+      "hi": 1589308016,
+      "lo": 3234881721,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-451 Cookout",
+      "hi": 3542343264,
+      "lo": 2237175980,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-8 Punisher",
+      "hi": 1105904800,
+      "lo": 965212832,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-8P Punisher Plasma",
+      "hi": 98097344,
+      "lo": 1941558530,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-8S Slugger",
+      "hi": 1333042734,
+      "lo": 3798946605,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SG-97 Sweeper",
+      "hi": 3704735797,
+      "lo": 1082062778,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SMG-203 Gallant",
+      "hi": 409905501,
+      "lo": 3878710042,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SMG-32 Reprimand",
+      "hi": 2495451931,
+      "lo": 1605693077,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SMG-37 Defender",
+      "hi": 1313497406,
+      "lo": 3116325924,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SMG-72 Pummeler",
+      "hi": 134721189,
+      "lo": 561923943,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "SMG/FLAM-34 Stoker",
+      "hi": 2318433233,
+      "lo": 2165989353,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "StA-11 SMG",
+      "hi": 1269046127,
+      "lo": 2671795394,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "StA-52 Assault Rifle",
+      "hi": 3455224800,
+      "lo": 649821572,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "VG-70 Variable",
+      "hi": 4187147927,
+      "lo": 1467779711,
+      "template_key": 3866352840,
+      "category": 1
+    },
+    {
+      "name": "CQC-19 Stun Lance",
+      "hi": 3820400349,
+      "lo": 134001764,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "CQC-2 Saber",
+      "hi": 4242056934,
+      "lo": 2125226842,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "CQC-30 Stun Baton",
+      "hi": 1389215674,
+      "lo": 3392975767,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "CQC-42 Machete",
+      "hi": 2033016106,
+      "lo": 873453286,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "CQC-5 Combat Hatchet",
+      "hi": 1971413111,
+      "lo": 3241789520,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "CQC-73 Entrenchment Tool",
+      "hi": 2115991062,
+      "lo": 1013349963,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "GP-20 Ultimatum",
+      "hi": 2662424707,
+      "lo": 52543446,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "GP-31 Grenade Pistol",
+      "hi": 1390687054,
+      "lo": 1779600559,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "LAS-58 Talon",
+      "hi": 1097663795,
+      "lo": 1925506099,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "LAS-7 Dagger",
+      "hi": 2063997294,
+      "lo": 2417314952,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "M6C/SOCOM Pistol",
+      "hi": 1297663856,
+      "lo": 2276947141,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-11 Stim Pistol",
+      "hi": 3601988357,
+      "lo": 3104871251,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-113 Verdict",
+      "hi": 440627544,
+      "lo": 3786986145,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-19 Redeemer",
+      "hi": 896903868,
+      "lo": 1595904806,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-2 Peacemaker",
+      "hi": 98887106,
+      "lo": 3681436834,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-33 Missile Pistol",
+      "hi": 349557840,
+      "lo": 1616299940,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-34 Breacher",
+      "hi": 3911145116,
+      "lo": 718843649,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-35 Re-Educator",
+      "hi": 193472520,
+      "lo": 3337918696,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-4 Senator",
+      "hi": 2369606307,
+      "lo": 3002176514,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-69 Veto",
+      "hi": 3347102935,
+      "lo": 2504514063,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-72 Crisper",
+      "hi": 1066580581,
+      "lo": 4016426153,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P-92 Warrant",
+      "hi": 3481875711,
+      "lo": 1701291053,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "P/40-K Bolt Pistol",
+      "hi": 3686189409,
+      "lo": 3315576257,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "PLAS-15 Loyalist",
+      "hi": 2859050509,
+      "lo": 1956899924,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "SG-22 Bushwhacker",
+      "hi": 724099455,
+      "lo": 4275068796,
+      "template_hi": 98887106,
+      "template_lo": 3681436834
+    },
+    {
+      "name": "G-10 Incendiary",
+      "hi": 73743027,
+      "lo": 1061157700,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-109 Urchin",
+      "hi": 1068060504,
+      "lo": 4120296459,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-12 High Explosive",
+      "hi": 1796340853,
+      "lo": 1981334910,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-123 Thermite",
+      "hi": 3317718987,
+      "lo": 1464321945,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-13 Incendiary Impact",
+      "hi": 3950140473,
+      "lo": 4231575676,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-142 Pyrotech",
+      "hi": 66264239,
+      "lo": 981307214,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-16 Impact",
+      "hi": 1988514895,
+      "lo": 1402714551,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-23 Stun",
+      "hi": 8423061,
+      "lo": 103389043,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-3 Smoke",
+      "hi": 1575550210,
+      "lo": 2690337546,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-31 Arc",
+      "hi": 3683789434,
+      "lo": 4232218955,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-4 Gas",
+      "hi": 68589647,
+      "lo": 1226995067,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-48 Giga Grenade",
+      "hi": 1177763785,
+      "lo": 3822370100,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-50 Seeker",
+      "hi": 758746398,
+      "lo": 3277719608,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-6 Frag",
+      "hi": 1290398391,
+      "lo": 2242354043,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-60 Anti-Tank Seeker",
+      "hi": 2385665171,
+      "lo": 1045806946,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-7 Pineapple",
+      "hi": 123410864,
+      "lo": 1761284165,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-8 Immolation",
+      "hi": 1544876663,
+      "lo": 1507671008,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G-89 Smokescreen",
+      "hi": 3669498637,
+      "lo": 2159350215,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G/40-K Melta Mine",
+      "hi": 3997962363,
+      "lo": 2484778996,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "G/SH-39 Shield",
+      "hi": 3374299425,
+      "lo": 2491077235,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "K-2 Throwing Knife",
+      "hi": 4155726492,
+      "lo": 1524842678,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "TED-63 Dynamite",
+      "hi": 339119560,
+      "lo": 2017599664,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    },
+    {
+      "name": "TM-1 Lure Mine",
+      "hi": 2718335769,
+      "lo": 2650544616,
+      "template_hi": 1290398391,
+      "template_lo": 2242354043
+    }
+  ],
+  "stratagems": [
+    {
+      "name": "Orbital Precision Strike",
+      "id": 118,
+      "key": 3523620028,
+      "record_key": 2391781446
+    },
+    {
+      "name": "Orbital Gatling Barrage",
+      "id": 4,
+      "key": 2084654169,
+      "record_key": 1078307866
+    },
+    {
+      "name": "Orbital Gas Strike",
+      "id": 41,
+      "key": 3193297673,
+      "record_key": 1134323464
+    },
+    {
+      "name": "Orbital 120mm HE Barrage",
+      "id": 136,
+      "key": 1063322614,
+      "record_key": 2928105092
+    },
+    {
+      "name": "Orbital Airburst Strike",
+      "id": 83,
+      "key": 1560416221,
+      "record_key": 2831720448
+    },
+    {
+      "name": "Orbital Smoke Strike",
+      "id": 74,
+      "key": 3713568312,
+      "record_key": 1363304012
+    },
+    {
+      "name": "Orbital EMS Strike",
+      "id": 34,
+      "key": 1280711447,
+      "record_key": 3551336597
+    },
+    {
+      "name": "Orbital 380mm HE Barrage",
+      "id": 125,
+      "key": 3108516875,
+      "record_key": 4158531749
+    },
+    {
+      "name": "Orbital Walking Barrage",
+      "id": 21,
+      "key": 3279813377,
+      "record_key": 808823003
+    },
+    {
+      "name": "Orbital Laser",
+      "id": 107,
+      "key": 970450596,
+      "record_key": 1520012896
+    },
+    {
+      "name": "Orbital Napalm Barrage",
+      "id": 106,
+      "key": 2902516083,
+      "record_key": 691091357
+    },
+    {
+      "name": "Orbital Railcannon Strike",
+      "id": 58,
+      "key": 2744472229,
+      "record_key": 2197477188
+    },
+    {
+      "name": "Eagle Strafing Run",
+      "id": 30,
+      "key": 2808191861,
+      "record_key": 2025422424
+    },
+    {
+      "name": "Eagle Airstrike",
+      "id": 18,
+      "key": 1238358532,
+      "record_key": 700547364
+    },
+    {
+      "name": "Eagle Cluster Bomb",
+      "id": 65,
+      "key": 3656370131,
+      "record_key": 1220665708
+    },
+    {
+      "name": "Eagle Smoke Strike",
+      "id": 38,
+      "key": 1685231450,
+      "record_key": 1062482104
+    },
+    {
+      "name": "Eagle Napalm Airstrike",
+      "id": 133,
+      "key": 2040137691,
+      "record_key": 1427614189
+    },
+    {
+      "name": "Eagle 110mm Rocket Pods",
+      "id": 140,
+      "key": 1979913877,
+      "record_key": 3723465233
+    },
+    {
+      "name": "Eagle 500kg Bomb",
+      "id": 3,
+      "key": 4119049995,
+      "record_key": 1982351727
+    },
+    {
+      "name": "MG-43 Machine Gun",
+      "id": 92,
+      "key": 458198946,
+      "record_key": 934703916
+    },
+    {
+      "name": "M-105 Stalwart",
+      "id": 13,
+      "key": 14345846,
+      "record_key": 1978117092
+    },
+    {
+      "name": "APW-1 Anti-Materiel Rifle",
+      "id": 141,
+      "key": 2207713849,
+      "record_key": 376960160
+    },
+    {
+      "name": "EAT-17 Expendable Anti-Tank",
+      "id": 147,
+      "key": 3413606544,
+      "record_key": 1207425221
+    },
+    {
+      "name": "GR-8 Recoilless Rifle",
+      "id": 130,
+      "key": 1298599997,
+      "record_key": 1594211884
+    },
+    {
+      "name": "FLAM-40 Flamethrower",
+      "id": 112,
+      "key": 1432571981,
+      "record_key": 1944161163
+    },
+    {
+      "name": "AC-8 Autocannon",
+      "id": 25,
+      "key": 875551083,
+      "record_key": 841182351
+    },
+    {
+      "name": "MG-206 Heavy Machine Gun",
+      "id": 32,
+      "key": 533318241,
+      "record_key": 4038802832
+    },
+    {
+      "name": "MLS-4X Commando",
+      "id": 6,
+      "key": 2232989803,
+      "record_key": 3212037062
+    },
+    {
+      "name": "RL-77 Airburst Rocket Launcher",
+      "id": 54,
+      "key": 2007887745,
+      "record_key": 3201417018
+    },
+    {
+      "name": "FAF-14 Spear",
+      "id": 75,
+      "key": 3923676543,
+      "record_key": 202236804
+    },
+    {
+      "name": "RS-422 Railgun",
+      "id": 56,
+      "key": 3078242205,
+      "record_key": 295440526
+    },
+    {
+      "name": "StA-X3 W.A.S.P. Launcher",
+      "id": 97,
+      "key": 890972990,
+      "record_key": 3564779466
+    },
+    {
+      "name": "LAS-98 Laser Cannon",
+      "id": 63,
+      "key": 2822568285,
+      "record_key": 961518079
+    },
+    {
+      "name": "GL-21 Grenade Launcher",
+      "id": 80,
+      "key": 3343676429,
+      "record_key": 1159284196
+    },
+    {
+      "name": "ARC-3 Arc Thrower",
+      "id": 68,
+      "key": 992079466,
+      "record_key": 2138935687
+    },
+    {
+      "name": "LAS-99 Quasar Cannon",
+      "id": 149,
+      "key": 2625074523,
+      "record_key": 1597673685
+    },
+    {
+      "name": "TX-41 Sterilizer",
+      "id": 61,
+      "key": 4152191751,
+      "record_key": 1725541340
+    },
+    {
+      "name": "CQC-1 One True Flag",
+      "id": 114,
+      "key": 2265180087,
+      "record_key": 1247082912
+    },
+    {
+      "name": "GL-52 De-Escalator",
+      "id": 131,
+      "key": 153819019,
+      "record_key": 3560739565
+    },
+    {
+      "name": "PLAS-45 Epoch",
+      "id": 45,
+      "key": 4261593827,
+      "record_key": 2961443701
+    },
+    {
+      "name": "S-11 Speargun",
+      "id": 113,
+      "key": 336693041,
+      "record_key": 4030799106
+    },
+    {
+      "name": "EAT-700 Expendable Napalm",
+      "id": 39,
+      "key": 1813634375,
+      "record_key": 4189624954
+    },
+    {
+      "name": "MS-11 Solo Silo",
+      "id": 89,
+      "key": 1337271929,
+      "record_key": 906184838
+    },
+    {
+      "name": "CQC-9 Defoliation Tool",
+      "id": 51,
+      "key": 3572024208,
+      "record_key": 1214427163
+    },
+    {
+      "name": "M-1000 Maxigun",
+      "id": 110,
+      "key": 3455841218,
+      "record_key": 3659583399
+    },
+    {
+      "name": "B/MD C4 Pack",
+      "id": 14,
+      "key": 3748434442,
+      "record_key": 3413503378
+    },
+    {
+      "name": "CQC-20 Breaching Hammer",
+      "id": 100,
+      "key": 3330450692,
+      "record_key": 2771075958
+    },
+    {
+      "name": "EAT-411 Leveller",
+      "id": 16,
+      "key": 2934950455,
+      "record_key": 4095488231
+    },
+    {
+      "name": "GL-28 Belt-Fed Grenade Launcher",
+      "id": 127,
+      "key": 512147393,
+      "record_key": 316296057
+    },
+    {
+      "name": "B/FLAM-80 Cremator",
+      "id": 87,
+      "key": 2271469939,
+      "record_key": 2427670661
+    },
+    {
+      "name": "MGX-42 Bullet Storm",
+      "id": 99,
+      "key": 3288352984,
+      "record_key": 4001788629
+    },
+    {
+      "name": "40-K Meltagun",
+      "id": 81,
+      "key": 774795224,
+      "record_key": 4080785205
+    },
+    {
+      "name": "EXO-49 Emancipator Exosuit",
+      "id": 10,
+      "key": 1290499887,
+      "record_key": 754365924
+    },
+    {
+      "name": "EXO-45 Patriot Exosuit",
+      "id": 27,
+      "key": 295629711,
+      "record_key": 3857719901
+    },
+    {
+      "name": "M-102 Gunner FRV",
+      "id": 105,
+      "key": 3935317067,
+      "record_key": 2074801524
+    },
+    {
+      "name": "TD-220 Bastion MK XVI",
+      "id": 1,
+      "key": 2002187052,
+      "record_key": 2437239365
+    },
+    {
+      "name": "EXO-55 Breakthrough Exosuit",
+      "id": 88,
+      "key": 563851843,
+      "record_key": 841332828
+    },
+    {
+      "name": "EXO-51 Lumberer Exosuit",
+      "id": 91,
+      "key": 3086305673,
+      "record_key": 1299305542
+    },
+    {
+      "name": "B-1 Supply Pack",
+      "id": 101,
+      "key": 1907808218,
+      "record_key": 336620886
+    },
+    {
+      "name": "LIFT-850 Jump Pack",
+      "id": 134,
+      "key": 1753436707,
+      "record_key": 3863540692
+    },
+    {
+      "name": "SH-20 Ballistic Shield Backpack",
+      "id": 96,
+      "key": 3353508219,
+      "record_key": 2369837022
+    },
+    {
+      "name": "AX/AR-23 Guard Dog",
+      "id": 73,
+      "key": 485866824,
+      "record_key": 3791047893
+    },
+    {
+      "name": "AX/LAS-5 Rover",
+      "id": 115,
+      "key": 951988742,
+      "record_key": 4277455125
+    },
+    {
+      "name": "SH-32 Shield Generator Pack",
+      "id": 43,
+      "key": 3843705076,
+      "record_key": 485637029
+    },
+    {
+      "name": "SH-51 Directional Shield",
+      "id": 67,
+      "key": 272480476,
+      "record_key": 1382612374
+    },
+    {
+      "name": "AX/FLAM-75 Hot Dog",
+      "id": 57,
+      "key": 1125307795,
+      "record_key": 4252990341
+    },
+    {
+      "name": "B-100 Portable Hellbomb",
+      "id": 31,
+      "key": 1053576110,
+      "record_key": 1053576110,
+      "allow_append": true,
+      "template_key": 1695682779
+    },
+    {
+      "name": "AX/ARC-3 K-9",
+      "id": 2,
+      "key": 1692135420,
+      "record_key": 2686392625
+    },
+    {
+      "name": "LIFT-860 Hover Pack",
+      "id": 55,
+      "key": 73468749,
+      "record_key": 230501979
+    },
+    {
+      "name": "AX/TX-13 Dog Breath",
+      "id": 142,
+      "key": 5185868,
+      "record_key": 3484474549
+    },
+    {
+      "name": "LIFT-182 Warp Pack",
+      "id": 24,
+      "key": 2185045091,
+      "record_key": 3123380863
+    },
+    {
+      "name": "A/MG-43 Machine Gun Sentry",
+      "id": 121,
+      "key": 4239785897,
+      "record_key": 1228689284
+    },
+    {
+      "name": "A/G-16 Gatling Sentry",
+      "id": 66,
+      "key": 623391597,
+      "record_key": 2446402932
+    },
+    {
+      "name": "A/AC-8 Autocannon Sentry",
+      "id": 137,
+      "key": 854563507,
+      "record_key": 2616066963
+    },
+    {
+      "name": "A/M-12 Mortar Sentry",
+      "id": 117,
+      "key": 1582497738,
+      "record_key": 461790327
+    },
+    {
+      "name": "A/MLS-4X Rocket Sentry",
+      "id": 53,
+      "key": 717707279,
+      "record_key": 3467463065
+    },
+    {
+      "name": "A/ARC-3 Tesla Tower",
+      "id": 104,
+      "key": 2402590523,
+      "record_key": 1671728820
+    },
+    {
+      "name": "A/M-23 EMS Mortar Sentry",
+      "id": 44,
+      "key": 3085503322,
+      "record_key": 3157053145
+    },
+    {
+      "name": "A/LAS-98 Laser Sentry",
+      "id": 23,
+      "key": 960389145,
+      "record_key": 914471076
+    },
+    {
+      "name": "A/FLAM-40 Flame Sentry",
+      "id": 8,
+      "key": 474724029,
+      "record_key": 669794144
+    },
+    {
+      "name": "A/GM-17 Gas Mortar Sentry",
+      "id": 52,
+      "key": 3183339606,
+      "record_key": 3428286935
+    },
+    {
+      "name": "MD-6 Anti-Personnel Minefield",
+      "id": 119,
+      "key": 12688472,
+      "record_key": 3039399791
+    },
+    {
+      "name": "MD-I4 Incendiary Mines",
+      "id": 139,
+      "key": 2742141597,
+      "record_key": 3111134131
+    },
+    {
+      "name": "MD-17 Anti-Tank Mines",
+      "id": 12,
+      "key": 2239174926,
+      "record_key": 783152568
+    },
+    {
+      "name": "FX-12 Shield Generator Relay",
+      "id": 22,
+      "key": 2281932031,
+      "record_key": 70017975
+    },
+    {
+      "name": "E/MG-101 HMG Emplacement",
+      "id": 144,
+      "key": 2919842659,
+      "record_key": 3827587060
+    },
+    {
+      "name": "E/GL-21 Grenadier Battlement",
+      "id": 59,
+      "key": 2480128092,
+      "record_key": 1736727415
+    },
+    {
+      "name": "MD-8 Gas Mines",
+      "id": 46,
+      "key": 644090457,
+      "record_key": 1326547218
+    },
+    {
+      "name": "E/AT-12 Anti-Tank Emplacement",
+      "id": 9,
+      "key": 762584056,
+      "record_key": 3106925116
+    }
+  ],
+  "cosmetics": [
+    {
+      "name": "FS-37 Ravager / Armour",
+      "key": 530315896,
+      "kind": 0,
+      "kit_index": 0,
+      "archive_hi": 645909374,
+      "archive_lo": 2654023219,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2671489717
+    },
+    {
+      "name": "FS-37 Ravager / Helmet",
+      "key": 2033511819,
+      "kind": 1,
+      "kit_index": 1,
+      "archive_hi": 1740308335,
+      "archive_lo": 479864693,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1917896581
+    },
+    {
+      "name": "FS-55 Devastator / Armour",
+      "key": 3544585106,
+      "kind": 0,
+      "kit_index": 2,
+      "archive_hi": 319340319,
+      "archive_lo": 3173482162,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 123640653
+    },
+    {
+      "name": "FS-55 Devastator / Helmet",
+      "key": 90720489,
+      "kind": 1,
+      "kit_index": 3,
+      "archive_hi": 335095453,
+      "archive_lo": 149236978,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3364088192
+    },
+    {
+      "name": "CW-4 Arctic Ranger / Armour",
+      "key": 3106805633,
+      "kind": 0,
+      "kit_index": 4,
+      "archive_hi": 3562122140,
+      "archive_lo": 402017049,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1740717999
+    },
+    {
+      "name": "CW-4 Arctic Ranger / Helmet",
+      "key": 1672102597,
+      "kind": 1,
+      "kit_index": 5,
+      "archive_hi": 1601027967,
+      "archive_lo": 3150761181,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2829569639
+    },
+    {
+      "name": "CW-22 Kodiak / Armour",
+      "key": 1773940042,
+      "kind": 0,
+      "kit_index": 6,
+      "archive_hi": 496929487,
+      "archive_lo": 3287169742,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3182845434
+    },
+    {
+      "name": "CW-22 Kodiak / Helmet",
+      "key": 2446816200,
+      "kind": 1,
+      "kit_index": 7,
+      "archive_hi": 3925334594,
+      "archive_lo": 1503130507,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3174960214
+    },
+    {
+      "name": "SA-25 Steel Trooper / Armour",
+      "key": 3672418116,
+      "kind": 0,
+      "kit_index": 8,
+      "archive_hi": 2866682483,
+      "archive_lo": 2708168629,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 58483197
+    },
+    {
+      "name": "SA-25 Steel Trooper / Helmet",
+      "key": 2745690429,
+      "kind": 1,
+      "kit_index": 9,
+      "archive_hi": 4245694634,
+      "archive_lo": 2858753071,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 197210556
+    },
+    {
+      "name": "SA-12 Servo-Assisted / Armour",
+      "key": 4072133621,
+      "kind": 0,
+      "kit_index": 10,
+      "archive_hi": 501219516,
+      "archive_lo": 4265893295,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2858087169
+    },
+    {
+      "name": "SA-12 Servo-Assisted / Helmet",
+      "key": 2362677051,
+      "kind": 1,
+      "kit_index": 11,
+      "archive_hi": 831974880,
+      "archive_lo": 3374692995,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1675214662
+    },
+    {
+      "name": "SA-32 Dynamo / Armour",
+      "key": 1010744048,
+      "kind": 0,
+      "kit_index": 12,
+      "archive_hi": 3510770473,
+      "archive_lo": 2285473546,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3247235347
+    },
+    {
+      "name": "SA-32 Dynamo / Helmet",
+      "key": 4089246094,
+      "kind": 1,
+      "kit_index": 13,
+      "archive_hi": 3840172959,
+      "archive_lo": 1130744398,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3108744452
+    },
+    {
+      "name": "CE-74 Breaker / Armour",
+      "key": 650064382,
+      "kind": 0,
+      "kit_index": 14,
+      "archive_hi": 2329826357,
+      "archive_lo": 986440605,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2707635295
+    },
+    {
+      "name": "CE-74 Breaker / Helmet",
+      "key": 3996028128,
+      "kind": 1,
+      "kit_index": 15,
+      "archive_hi": 2163794688,
+      "archive_lo": 4135080169,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2560101303
+    },
+    {
+      "name": "AF-91 Field Chemist / Armour",
+      "key": 324813428,
+      "kind": 0,
+      "kit_index": 16,
+      "archive_hi": 1746555180,
+      "archive_lo": 1515982311,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877
+    },
+    {
+      "name": "AF-91 Field Chemist / Armour",
+      "key": 1801556340,
+      "kind": 0,
+      "kit_index": 17,
+      "archive_hi": 1657207749,
+      "archive_lo": 3448784013,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877
+    },
+    {
+      "name": "AF-91 Field Chemist / Armour",
+      "key": 1931908001,
+      "kind": 0,
+      "kit_index": 18,
+      "archive_hi": 4255756617,
+      "archive_lo": 1663055438,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877
+    },
+    {
+      "name": "AF-91 Field Chemist / Helmet",
+      "key": 2355853539,
+      "kind": 1,
+      "kit_index": 19,
+      "archive_hi": 1973559236,
+      "archive_lo": 2676030364,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041
+    },
+    {
+      "name": "AF-91 Field Chemist / Helmet",
+      "key": 263608846,
+      "kind": 1,
+      "kit_index": 20,
+      "archive_hi": 2061869811,
+      "archive_lo": 762258673,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041
+    },
+    {
+      "name": "AF-91 Field Chemist (variant) / Helmet",
+      "key": 4138636345,
+      "kind": 1,
+      "kit_index": 21,
+      "archive_hi": 1069655044,
+      "archive_lo": 455217950,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041
+    },
+    {
+      "name": "AF-91 Field Chemist (variant) / Helmet",
+      "key": 4264835049,
+      "kind": 1,
+      "kit_index": 22,
+      "archive_hi": 446574742,
+      "archive_lo": 1265342482,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041
+    },
+    {
+      "name": "CE-35 Trench Engineer / Armour",
+      "key": 4216001108,
+      "kind": 0,
+      "kit_index": 25,
+      "archive_hi": 1290485070,
+      "archive_lo": 822705256,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 627197346
+    },
+    {
+      "name": "CE-35 Trench Engineer / Helmet",
+      "key": 2952500571,
+      "kind": 1,
+      "kit_index": 26,
+      "archive_hi": 3073340131,
+      "archive_lo": 2252084753,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2137194125
+    },
+    {
+      "name": "CE-67 Titan / Armour",
+      "key": 4081083564,
+      "kind": 0,
+      "kit_index": 27,
+      "archive_hi": 2155469625,
+      "archive_lo": 1874842396,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 600482535
+    },
+    {
+      "name": "CE-67 Titan / Helmet",
+      "key": 2547476111,
+      "kind": 1,
+      "kit_index": 28,
+      "archive_hi": 3982329500,
+      "archive_lo": 3664259182,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3265219660
+    },
+    {
+      "name": "CE-27 Ground Breaker / Armour",
+      "key": 2128569605,
+      "kind": 0,
+      "kit_index": 29,
+      "archive_hi": 2827032046,
+      "archive_lo": 3125079118,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1243352476
+    },
+    {
+      "name": "CE-27 Ground Breaker / Helmet",
+      "key": 2891794937,
+      "kind": 1,
+      "kit_index": 30,
+      "archive_hi": 950546267,
+      "archive_lo": 3865860918,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 4107448458
+    },
+    {
+      "name": "CM-09 Bonesnapper / Armour",
+      "key": 476841466,
+      "kind": 0,
+      "kit_index": 31,
+      "archive_hi": 757460839,
+      "archive_lo": 3084418723,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 726539469
+    },
+    {
+      "name": "CM-09 Bonesnapper / Helmet",
+      "key": 3260726132,
+      "kind": 1,
+      "kit_index": 32,
+      "archive_hi": 1479017043,
+      "archive_lo": 151375,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3202051201
+    },
+    {
+      "name": "CM-21 Trench Paramedic / Armour",
+      "key": 3576411155,
+      "kind": 0,
+      "kit_index": 33,
+      "archive_hi": 1092628848,
+      "archive_lo": 2867041472,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1496416071
+    },
+    {
+      "name": "CM-21 Trench Paramedic / Helmet",
+      "key": 3172884100,
+      "kind": 1,
+      "kit_index": 34,
+      "archive_hi": 4208905182,
+      "archive_lo": 505457991,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1803822149
+    },
+    {
+      "name": "CM-17 Butcher / Armour",
+      "key": 2509257439,
+      "kind": 0,
+      "kit_index": 35,
+      "archive_hi": 3621841062,
+      "archive_lo": 3366653484,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1720124590
+    },
+    {
+      "name": "CM-17 Butcher / Helmet",
+      "key": 2792362215,
+      "kind": 1,
+      "kit_index": 36,
+      "archive_hi": 582685145,
+      "archive_lo": 35986705,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 107122853
+    },
+    {
+      "name": "CM-10 Clinician / Armour",
+      "key": 2047279903,
+      "kind": 0,
+      "kit_index": 37,
+      "archive_hi": 2018168276,
+      "archive_lo": 361404994,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 569318072
+    },
+    {
+      "name": "CM-10 Clinician / Helmet",
+      "key": 2978704486,
+      "kind": 1,
+      "kit_index": 38,
+      "archive_hi": 4239748522,
+      "archive_lo": 1712553142,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1937229501
+    },
+    {
+      "name": "UF-84 Doubt Killer / Armour",
+      "key": 2775896893,
+      "kind": 0,
+      "kit_index": 43,
+      "archive_hi": 267170614,
+      "archive_lo": 3189581947,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3057681291
+    },
+    {
+      "name": "UF-84 Doubt Killer / Helmet",
+      "key": 310587030,
+      "kind": 1,
+      "kit_index": 44,
+      "archive_hi": 2293749559,
+      "archive_lo": 3068538048,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1998231159
+    },
+    {
+      "name": "FS-61 Dreadnought / Armour",
+      "key": 1400802885,
+      "kind": 0,
+      "kit_index": 45,
+      "archive_hi": 1756116954,
+      "archive_lo": 3820233921,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 141528028
+    },
+    {
+      "name": "FS-61 Dreadnought / Helmet",
+      "key": 773157227,
+      "kind": 1,
+      "kit_index": 46,
+      "archive_hi": 3340823329,
+      "archive_lo": 1952295507,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2622359419
+    },
+    {
+      "name": "CE-07 Demolition Specialist / Armour",
+      "key": 1511511766,
+      "kind": 0,
+      "kit_index": 47,
+      "archive_hi": 4291482103,
+      "archive_lo": 4288186583,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2090263706
+    },
+    {
+      "name": "CE-07 Demolition Specialist / Helmet",
+      "key": 1707113970,
+      "kind": 1,
+      "kit_index": 48,
+      "archive_hi": 4258517990,
+      "archive_lo": 2011538420,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2038008847
+    },
+    {
+      "name": "SC-15 Drone Master / Armour",
+      "key": 4118634958,
+      "kind": 0,
+      "kit_index": 49,
+      "archive_hi": 1671771357,
+      "archive_lo": 1196949138,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1541695550
+    },
+    {
+      "name": "SC-15 Drone Master / Helmet",
+      "key": 2170995148,
+      "kind": 1,
+      "kit_index": 50,
+      "archive_hi": 428376385,
+      "archive_lo": 1197208194,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 613510753
+    },
+    {
+      "name": "FS-38 Eradicator / Armour",
+      "key": 547904705,
+      "kind": 0,
+      "kit_index": 51,
+      "archive_hi": 2168300624,
+      "archive_lo": 3087178930,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3425208119
+    },
+    {
+      "name": "FS-38 Eradicator / Helmet",
+      "key": 3664047629,
+      "kind": 1,
+      "kit_index": 52,
+      "archive_hi": 43046913,
+      "archive_lo": 533619439,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2451094788
+    },
+    {
+      "name": "EX-03 Prototype 3 / Armour",
+      "key": 618911418,
+      "kind": 0,
+      "kit_index": 53,
+      "archive_hi": 1585882802,
+      "archive_lo": 2251264719,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3605514351
+    },
+    {
+      "name": "EX-03 Prototype 3 / Helmet",
+      "key": 2327628884,
+      "kind": 1,
+      "kit_index": 54,
+      "archive_hi": 417598548,
+      "archive_lo": 3666629823,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1004735217
+    },
+    {
+      "name": "EX-16 Prototype 16 / Armour",
+      "key": 2855449476,
+      "kind": 0,
+      "kit_index": 55,
+      "archive_hi": 4053220660,
+      "archive_lo": 1905835375,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1223759745
+    },
+    {
+      "name": "ex 16 prototype 16 / Helmet",
+      "key": 556660324,
+      "kind": 1,
+      "kit_index": 56,
+      "archive_hi": 974560906,
+      "archive_lo": 3300509230,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3182289738
+    },
+    {
+      "name": "FS-34 Exterminator / Armour",
+      "key": 2346212818,
+      "kind": 0,
+      "kit_index": 57,
+      "archive_hi": 1435182491,
+      "archive_lo": 2496844226,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1959739079
+    },
+    {
+      "name": "FS-34 Exterminator / Helmet",
+      "key": 951081859,
+      "kind": 1,
+      "kit_index": 58,
+      "archive_hi": 1087294575,
+      "archive_lo": 1526031956,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1781176310
+    },
+    {
+      "name": "DP-40 Hero of the Federation / Armour",
+      "key": 3037986132,
+      "kind": 0,
+      "kit_index": 59,
+      "archive_hi": 468394755,
+      "archive_lo": 1672148007,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2076005753
+    },
+    {
+      "name": "DP-40 Hero of the Federation / Helmet",
+      "key": 1546684370,
+      "kind": 1,
+      "kit_index": 61,
+      "archive_hi": 2639496578,
+      "archive_lo": 3251476152,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2257162260
+    },
+    {
+      "name": "DP-11 Champion of the People / Armour",
+      "key": 3819612061,
+      "kind": 0,
+      "kit_index": 63,
+      "archive_hi": 3146619886,
+      "archive_lo": 1238642,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2948747084
+    },
+    {
+      "name": "DP-11 Champion of the People / Helmet",
+      "key": 4016909011,
+      "kind": 1,
+      "kit_index": 64,
+      "archive_hi": 2757557633,
+      "archive_lo": 3588917051,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1533004132
+    },
+    {
+      "name": "CM-14 Physician / Armour",
+      "key": 950673533,
+      "kind": 0,
+      "kit_index": 65,
+      "archive_hi": 2967174991,
+      "archive_lo": 168943293,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3658884708
+    },
+    {
+      "name": "CM-14 Physician Armor / Helmet",
+      "key": 541028876,
+      "kind": 1,
+      "kit_index": 66,
+      "archive_hi": 468877750,
+      "archive_lo": 319298309,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2255718673
+    },
+    {
+      "name": "B-27 Fortified Commando / Armour",
+      "key": 3536156897,
+      "kind": 0,
+      "kit_index": 71,
+      "archive_hi": 2185931024,
+      "archive_lo": 1088084904,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 729713319
+    },
+    {
+      "name": "B-27 Fortified Commando / Helmet",
+      "key": 3508381787,
+      "kind": 1,
+      "kit_index": 72,
+      "archive_hi": 1225222830,
+      "archive_lo": 1071794567,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1440169212
+    },
+    {
+      "name": "EX-00 Prototype X / Armour",
+      "key": 3618831709,
+      "kind": 0,
+      "kit_index": 75,
+      "archive_hi": 728589404,
+      "archive_lo": 901571818,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1853367679
+    },
+    {
+      "name": "EX-00 Prototype X / Helmet",
+      "key": 3517336259,
+      "kind": 1,
+      "kit_index": 76,
+      "archive_hi": 3204623106,
+      "archive_lo": 982665459,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 377236948
+    },
+    {
+      "name": "CE-81 Juggernaut / Armour",
+      "key": 2546928266,
+      "kind": 0,
+      "kit_index": 77,
+      "archive_hi": 2295120700,
+      "archive_lo": 1288326432,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 4217833941
+    },
+    {
+      "name": "CE-81 Juggernaut / Helmet",
+      "key": 4242416506,
+      "kind": 1,
+      "kit_index": 78,
+      "archive_hi": 2184228839,
+      "archive_lo": 2372943416,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 632014929
+    },
+    {
+      "name": "DP-8 Mountain-Scaled / Armour",
+      "key": 2846302183,
+      "kind": 0,
+      "kit_index": 79,
+      "archive_hi": 3539854486,
+      "archive_lo": 577497455,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2556497905
+    },
+    {
+      "name": "DP-8 Mountain-Scaled / Helmet",
+      "key": 2979884042,
+      "kind": 1,
+      "kit_index": 80,
+      "archive_hi": 1506949129,
+      "archive_lo": 1242975368,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1233248044
+    },
+    {
+      "name": "SC-37 Legionnaire / Armour",
+      "key": 337681978,
+      "kind": 0,
+      "kit_index": 82,
+      "archive_hi": 3711701684,
+      "archive_lo": 325392728,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 261917564
+    },
+    {
+      "name": "SC-37 Legionnaire / Helmet",
+      "key": 1605151673,
+      "kind": 1,
+      "kit_index": 85,
+      "archive_hi": 167991093,
+      "archive_lo": 875576594,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 4084902841
+    },
+    {
+      "name": "CM-09 Bonesnapper / Armour",
+      "key": 2107035846,
+      "kind": 0,
+      "kit_index": 87,
+      "archive_hi": 3422445023,
+      "archive_lo": 1943340933,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877
+    },
+    {
+      "name": "CM-09 Bonesnapper / Helmet",
+      "key": 1303420068,
+      "kind": 1,
+      "kit_index": 88,
+      "archive_hi": 1573022395,
+      "archive_lo": 554945957,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041
+    },
+    {
+      "name": "B-08 Light Gunner / Armour",
+      "key": 488691438,
+      "kind": 0,
+      "kit_index": 89,
+      "archive_hi": 3752313484,
+      "archive_lo": 994642572,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3855903191
+    },
+    {
+      "name": "B-08 Light Gunner / Helmet",
+      "key": 1210216079,
+      "kind": 1,
+      "kit_index": 90,
+      "archive_hi": 2013649910,
+      "archive_lo": 4164618682,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 123566382
+    },
+    {
+      "name": "A-9 Helljumper / Armour",
+      "key": 383891923,
+      "kind": 0,
+      "kit_index": 91,
+      "archive_hi": 493732897,
+      "archive_lo": 1853678893,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1054227457
+    },
+    {
+      "name": "A-9 Helljumper / Helmet",
+      "key": 2671741463,
+      "kind": 1,
+      "kit_index": 92,
+      "archive_hi": 2824269311,
+      "archive_lo": 1238359445,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 4073412478
+    },
+    {
+      "name": "A-35 Recon / Armour",
+      "key": 3631847226,
+      "kind": 0,
+      "kit_index": 93,
+      "archive_hi": 4079826723,
+      "archive_lo": 3219479855,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1449669830
+    },
+    {
+      "name": "A-35 Recon / Helmet",
+      "key": 3020362878,
+      "kind": 1,
+      "kit_index": 94,
+      "archive_hi": 439339114,
+      "archive_lo": 3173498715,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3018658853
+    },
+    {
+      "name": "DP-53 Savior of the Free / Armour",
+      "key": 4249185760,
+      "kind": 0,
+      "kit_index": 95,
+      "archive_hi": 1577957913,
+      "archive_lo": 2775055257,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 556862721
+    },
+    {
+      "name": "DP-53 Savior of the Free / Helmet",
+      "key": 139999425,
+      "kind": 1,
+      "kit_index": 96,
+      "archive_hi": 19004686,
+      "archive_lo": 2205196764,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1296068557
+    },
+    {
+      "name": "SC-30 Trailblazer Scout / Armour",
+      "key": 492895376,
+      "kind": 0,
+      "kit_index": 98,
+      "archive_hi": 3847137830,
+      "archive_lo": 3627459263,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3884524834
+    },
+    {
+      "name": "SC-30 Trailblazer Scout / Helmet",
+      "key": 1521442150,
+      "kind": 1,
+      "kit_index": 102,
+      "archive_hi": 3767237176,
+      "archive_lo": 2860809048,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 161123434
+    },
+    {
+      "name": "B-24 Enforcer / Armour",
+      "key": 2150790862,
+      "kind": 0,
+      "kit_index": 108,
+      "archive_hi": 869190734,
+      "archive_lo": 1214161860,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2839523111
+    },
+    {
+      "name": "B-24 Enforcer / Helmet",
+      "key": 1092689023,
+      "kind": 1,
+      "kit_index": 110,
+      "archive_hi": 3143151273,
+      "archive_lo": 3199901198,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 370492118
+    },
+    {
+      "name": "FS-05 Marksman / Armour",
+      "key": 3970674111,
+      "kind": 0,
+      "kit_index": 113,
+      "archive_hi": 2255509900,
+      "archive_lo": 524575452,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3377389763
+    },
+    {
+      "name": "FS-05 Marksman / Helmet",
+      "key": 1386151525,
+      "kind": 1,
+      "kit_index": 117,
+      "archive_hi": 1161588207,
+      "archive_lo": 2475950901,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2380729224
+    },
+    {
+      "name": "FS-11 Executioner / Armour",
+      "key": 2006219485,
+      "kind": 0,
+      "kit_index": 122,
+      "archive_hi": 615234152,
+      "archive_lo": 613382879,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2063654327
+    },
+    {
+      "name": "FS-11 Executioner / Helmet",
+      "key": 1447229978,
+      "kind": 1,
+      "kit_index": 123,
+      "archive_hi": 4280982965,
+      "archive_lo": 3756553683,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3777669305
+    },
+    {
+      "name": "SC-34 Infiltrator / Armour",
+      "key": 1538571184,
+      "kind": 0,
+      "kit_index": 124,
+      "archive_hi": 196165093,
+      "archive_lo": 1960094926,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2441344260
+    },
+    {
+      "name": "SC-34 Infiltrator / Helmet",
+      "key": 3666591402,
+      "kind": 1,
+      "kit_index": 127,
+      "archive_hi": 2555333043,
+      "archive_lo": 3226741411,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1494299745
+    },
+    {
+      "name": "B-01 Tactical / Armour",
+      "key": 1639126819,
+      "kind": 0,
+      "kit_index": 136,
+      "archive_hi": 1491385675,
+      "archive_lo": 578343260,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2993413082
+    },
+    {
+      "name": "B-01 Tactical / Armour",
+      "key": 1333768893,
+      "kind": 0,
+      "kit_index": 137,
+      "archive_hi": 1445610985,
+      "archive_lo": 3164098233,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3397143939
+    },
+    {
+      "name": "B-01 Tactical / Armour",
+      "key": 1666296234,
+      "kind": 0,
+      "kit_index": 138,
+      "archive_hi": 1825822044,
+      "archive_lo": 97839809,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 641961692
+    },
+    {
+      "name": "B-01 Tactical / Armour",
+      "key": 1831924614,
+      "kind": 0,
+      "kit_index": 139,
+      "archive_hi": 1369227756,
+      "archive_lo": 783642141,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 527790324
+    },
+    {
+      "name": "B-01 Tactical / Helmet",
+      "key": 639388242,
+      "kind": 1,
+      "kit_index": 149,
+      "archive_hi": 4245724158,
+      "archive_lo": 4006831910,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 114989643
+    },
+    {
+      "name": "B-01 Tactical / Helmet",
+      "key": 1171786296,
+      "kind": 1,
+      "kit_index": 150,
+      "archive_hi": 991182018,
+      "archive_lo": 2209871623,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1475463359
+    },
+    {
+      "name": "B-01 Tactical / Helmet",
+      "key": 3020061552,
+      "kind": 1,
+      "kit_index": 151,
+      "archive_hi": 4102555171,
+      "archive_lo": 3542855593,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 38673775
+    },
+    {
+      "name": "B-01 Tactical / Helmet",
+      "key": 3750644442,
+      "kind": 1,
+      "kit_index": 152,
+      "archive_hi": 2199112101,
+      "archive_lo": 1454960261,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1742578540
+    },
+    {
+      "name": "AF-52 Lockdown / Armour",
+      "key": 4130354432,
+      "kind": 0,
+      "kit_index": 160,
+      "archive_hi": 3000496988,
+      "archive_lo": 2997560526,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3587033897
+    },
+    {
+      "name": "AF-52 Lockdown / Helmet",
+      "key": 2597729678,
+      "kind": 1,
+      "kit_index": 161,
+      "archive_hi": 2286935652,
+      "archive_lo": 2180422115,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2409962036
+    },
+    {
+      "name": "AF-91 Field Chemist / Armour",
+      "key": 269114829,
+      "kind": 0,
+      "kit_index": 162,
+      "archive_hi": 1657207749,
+      "archive_lo": 3448784013,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2275886813
+    },
+    {
+      "name": "AF-91 Field Chemist / Helmet",
+      "key": 3747577035,
+      "kind": 1,
+      "kit_index": 163,
+      "archive_hi": 564281458,
+      "archive_lo": 2811947944,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3121601786
+    },
+    {
+      "name": "UF-84 Doubt Killer / Armour",
+      "key": 622973953,
+      "kind": 0,
+      "kit_index": 164,
+      "archive_hi": 2432908538,
+      "archive_lo": 2866064664,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 940858144
+    },
+    {
+      "name": "UF-84 Doubt Killer / Helmet",
+      "key": 91360070,
+      "kind": 1,
+      "kit_index": 165,
+      "archive_hi": 690686426,
+      "archive_lo": 3356287454,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3849573872
+    },
+    {
+      "name": "SR-64 Cinderblock / Armour",
+      "key": 1352056041,
+      "kind": 0,
+      "kit_index": 166,
+      "archive_hi": 2978409187,
+      "archive_lo": 4072019209,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3228514517
+    },
+    {
+      "name": "SR-64 Cinderblock / Helmet",
+      "key": 1935281163,
+      "kind": 1,
+      "kit_index": 167,
+      "archive_hi": 2231204523,
+      "archive_lo": 2096559661,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3896484359
+    },
+    {
+      "name": "IE-57 Hell-Bent / Armour",
+      "key": 3788846739,
+      "kind": 0,
+      "kit_index": 168,
+      "archive_hi": 169190837,
+      "archive_lo": 3630784071,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1583911583
+    },
+    {
+      "name": "IE-57 Hell-Bent / Helmet",
+      "key": 2467151919,
+      "kind": 1,
+      "kit_index": 169,
+      "archive_hi": 931669796,
+      "archive_lo": 4267316078,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3053167931
+    },
+    {
+      "name": "GS-11 Democracy's Deputy / Armour",
+      "key": 1081784714,
+      "kind": 0,
+      "kit_index": 170,
+      "archive_hi": 592548255,
+      "archive_lo": 4113691796,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 478833129
+    },
+    {
+      "name": "GS-11 Democracy's Deputy / Helmet",
+      "key": 1490406789,
+      "kind": 1,
+      "kit_index": 171,
+      "archive_hi": 3689334140,
+      "archive_lo": 2117830471,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 474780450
+    },
+    {
+      "name": "RE-824 Bearer of the Standard / Armour",
+      "key": 4259903063,
+      "kind": 0,
+      "kit_index": 172,
+      "archive_hi": 4111237076,
+      "archive_lo": 662936647,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1309932317
+    },
+    {
+      "name": "RE-824 Bearer of the Standard / Helmet",
+      "key": 2831092939,
+      "kind": 1,
+      "kit_index": 173,
+      "archive_hi": 2495127674,
+      "archive_lo": 2558001175,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1749917951
+    },
+    {
+      "name": "AD-11 Livewire / Armour",
+      "key": 4177189740,
+      "kind": 0,
+      "kit_index": 174,
+      "archive_hi": 2302237743,
+      "archive_lo": 2363742368,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1856262587
+    },
+    {
+      "name": "AD-11 Livewire / Helmet",
+      "key": 619144634,
+      "kind": 1,
+      "kit_index": 175,
+      "archive_hi": 3193209450,
+      "archive_lo": 3235247323,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2580087410
+    },
+    {
+      "name": "BP-77 Grand Juror / Armour",
+      "key": 4099506837,
+      "kind": 0,
+      "kit_index": 176,
+      "archive_hi": 1605714504,
+      "archive_lo": 1286783653,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 4265797254
+    },
+    {
+      "name": "BP-77 Grand Juror / Helmet",
+      "key": 403022405,
+      "kind": 1,
+      "kit_index": 177,
+      "archive_hi": 1043618658,
+      "archive_lo": 3986571078,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2084675029
+    },
+    {
+      "name": "DS-10 Big Game Hunter / Armour",
+      "key": 3322703981,
+      "kind": 0,
+      "kit_index": 178,
+      "archive_hi": 2867592173,
+      "archive_lo": 3312582010,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 224926624
+    },
+    {
+      "name": "DS-10 Big Game Hunter / Helmet",
+      "key": 1383669348,
+      "kind": 1,
+      "kit_index": 179,
+      "archive_hi": 1267924890,
+      "archive_lo": 39196063,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1759673786
+    },
+    {
+      "name": "CW-9 White Wolf / Armour",
+      "key": 3017717209,
+      "kind": 0,
+      "kit_index": 180,
+      "archive_hi": 2026172803,
+      "archive_lo": 2649368621,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1335058381
+    },
+    {
+      "name": "CW-9 White Wolf / Helmet",
+      "key": 2086225563,
+      "kind": 1,
+      "kit_index": 181,
+      "archive_hi": 1882414224,
+      "archive_lo": 1178420072,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3233367200
+    },
+    {
+      "name": "CE-64 Grenadier / Armour",
+      "key": 1732669856,
+      "kind": 0,
+      "kit_index": 182,
+      "archive_hi": 4044838002,
+      "archive_lo": 2750498458,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 824775809
+    },
+    {
+      "name": "CE-64 Grenadier / Helmet",
+      "key": 1309115822,
+      "kind": 1,
+      "kit_index": 183,
+      "archive_hi": 2462102250,
+      "archive_lo": 179762846,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2538783678
+    },
+    {
+      "name": "PH-56 Jaguar / Armour",
+      "key": 600891740,
+      "kind": 0,
+      "kit_index": 184,
+      "archive_hi": 3637330516,
+      "archive_lo": 2198365269,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 217192825
+    },
+    {
+      "name": "PH-56 Jaguar / Helmet",
+      "key": 4033534167,
+      "kind": 1,
+      "kit_index": 185,
+      "archive_hi": 1552023646,
+      "archive_lo": 3716502924,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1830434737
+    },
+    {
+      "name": "CE-101 Guerilla Gorilla  / Armour",
+      "key": 3739746472,
+      "kind": 0,
+      "kit_index": 186,
+      "archive_hi": 1919867869,
+      "archive_lo": 2282260299,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 420381699
+    },
+    {
+      "name": "CE-101 Guerilla Gorilla / Helmet",
+      "key": 2310126051,
+      "kind": 1,
+      "kit_index": 187,
+      "archive_hi": 3233272469,
+      "archive_lo": 2246958682,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1128708923
+    },
+    {
+      "name": "I-44 Salamander / Armour",
+      "key": 574241611,
+      "kind": 0,
+      "kit_index": 188,
+      "archive_hi": 377745042,
+      "archive_lo": 3870213099,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3990548579
+    },
+    {
+      "name": "I-44 Salamander / Helmet",
+      "key": 3503184839,
+      "kind": 1,
+      "kit_index": 189,
+      "archive_hi": 1907002523,
+      "archive_lo": 4188057328,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1240391202
+    },
+    {
+      "name": "I-92 Fire Fighter / Armour",
+      "key": 2357446537,
+      "kind": 0,
+      "kit_index": 190,
+      "archive_hi": 2266024122,
+      "archive_lo": 505590828,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 683079503
+    },
+    {
+      "name": "I-92 Fire fighter / Helmet",
+      "key": 4248996228,
+      "kind": 1,
+      "kit_index": 191,
+      "archive_hi": 2661101186,
+      "archive_lo": 2366719696,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1282140582
+    },
+    {
+      "name": "RS-6 Fiend Destroyer / Armour",
+      "key": 2565365890,
+      "kind": 0,
+      "kit_index": 194,
+      "archive_hi": 3659090139,
+      "archive_lo": 1926976323,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 337564280
+    },
+    {
+      "name": "RS-6 Fiend Destroyer / Helmet",
+      "key": 3172433783,
+      "kind": 1,
+      "kit_index": 195,
+      "archive_hi": 1121247052,
+      "archive_lo": 1762550929,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1005738384
+    },
+    {
+      "name": "O-44 BONDED PILOT / Armour",
+      "key": 3160209462,
+      "kind": 0,
+      "kit_index": 196,
+      "archive_hi": 1342409888,
+      "archive_lo": 897718900,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3765197556
+    },
+    {
+      "name": "O-44 Bonded Pilot / Helmet",
+      "key": 1105008717,
+      "kind": 1,
+      "kit_index": 197,
+      "archive_hi": 1022519849,
+      "archive_lo": 2684428930,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2162208079
+    },
+    {
+      "name": "RS-100 SANCTIONER / Armour",
+      "key": 1305954758,
+      "kind": 0,
+      "kit_index": 198,
+      "archive_hi": 506176369,
+      "archive_lo": 799125552,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2015848647
+    },
+    {
+      "name": "RS-100 Sanctioner / Helmet",
+      "key": 1203563552,
+      "kind": 1,
+      "kit_index": 199,
+      "archive_hi": 3111647701,
+      "archive_lo": 1091798736,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2564970677
+    },
+    {
+      "name": "BFM-77 REFORMER / Armour",
+      "key": 873657828,
+      "kind": 0,
+      "kit_index": 200,
+      "archive_hi": 203451838,
+      "archive_lo": 951620409,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 835380827
+    },
+    {
+      "name": "BFM-77 Reformer / Helmet",
+      "key": 3991525047,
+      "kind": 1,
+      "kit_index": 201,
+      "archive_hi": 381652226,
+      "archive_lo": 4196925880,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1329667678
+    },
+    {
+      "name": "CPR-80 Bulwark / Armour",
+      "key": 2618015377,
+      "kind": 0,
+      "kit_index": 202,
+      "archive_hi": 128058734,
+      "archive_lo": 2053058879,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3639806567
+    },
+    {
+      "name": "CPR-80 Bulwark / Helmet",
+      "key": 2773961410,
+      "kind": 1,
+      "kit_index": 203,
+      "archive_hi": 1369921057,
+      "archive_lo": 1990765593,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2905528295
+    },
+    {
+      "name": "SA-04 Combat Technician / Armour",
+      "key": 3386027321,
+      "kind": 0,
+      "kit_index": 204,
+      "archive_hi": 1575982419,
+      "archive_lo": 1128255194,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2396807401
+    },
+    {
+      "name": "SA-04 Combat Technician / Helmet",
+      "key": 1318035279,
+      "kind": 1,
+      "kit_index": 205,
+      "archive_hi": 2135545908,
+      "archive_lo": 2809545223,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 4111545584
+    },
+    {
+      "name": "AF-50 Noxious Ranger / Armour",
+      "key": 1556124245,
+      "kind": 0,
+      "kit_index": 207,
+      "archive_hi": 2259271164,
+      "archive_lo": 599790871,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1399805769
+    },
+    {
+      "name": "AF-50 Noxious Ranger / Helmet",
+      "key": 3730267817,
+      "kind": 1,
+      "kit_index": 208,
+      "archive_hi": 2695175035,
+      "archive_lo": 940338458,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1431213118
+    },
+    {
+      "name": "AF-02 Haz-Master / Armour",
+      "key": 3920482375,
+      "kind": 0,
+      "kit_index": 209,
+      "archive_hi": 3329833168,
+      "archive_lo": 3152600270,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 996716618
+    },
+    {
+      "name": "AF-02 Haz-Master / Helmet",
+      "key": 796167044,
+      "kind": 1,
+      "kit_index": 210,
+      "archive_hi": 3189751210,
+      "archive_lo": 1266149483,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1368467090
+    },
+    {
+      "name": "UF-50 Bloodhound / Armour",
+      "key": 3008695584,
+      "kind": 0,
+      "kit_index": 211,
+      "archive_hi": 2266140905,
+      "archive_lo": 3580901457,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1927188023
+    },
+    {
+      "name": "UF-50 Bloodhound / Helmet",
+      "key": 238751935,
+      "kind": 1,
+      "kit_index": 212,
+      "archive_hi": 366793015,
+      "archive_lo": 3957880045,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 4286615047
+    },
+    {
+      "name": "UF-16 Inspector / Armour",
+      "key": 3059832618,
+      "kind": 0,
+      "kit_index": 213,
+      "archive_hi": 431335054,
+      "archive_lo": 1641523671,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 4168334185
+    },
+    {
+      "name": "UF-16 Inspector / Helmet",
+      "key": 3530620108,
+      "kind": 1,
+      "kit_index": 214,
+      "archive_hi": 4211235846,
+      "archive_lo": 2957020767,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3285635529
+    },
+    {
+      "name": "SR-24 Street Scout / Armour",
+      "key": 98922213,
+      "kind": 0,
+      "kit_index": 215,
+      "archive_hi": 137306693,
+      "archive_lo": 1097920470,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 850142972
+    },
+    {
+      "name": "SR-24 Street Scout / Helmet",
+      "key": 2477602867,
+      "kind": 1,
+      "kit_index": 216,
+      "archive_hi": 3062838258,
+      "archive_lo": 3452983514,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 979422228
+    },
+    {
+      "name": "SR-18 Roadblock / Armour",
+      "key": 3594517971,
+      "kind": 0,
+      "kit_index": 217,
+      "archive_hi": 438323964,
+      "archive_lo": 593650827,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 533156442
+    },
+    {
+      "name": "SR-18 Roadblock / Helmet",
+      "key": 3698525369,
+      "kind": 1,
+      "kit_index": 218,
+      "archive_hi": 3350260479,
+      "archive_lo": 68169922,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 401555819
+    },
+    {
+      "name": "IE-3 Martyr / Armour",
+      "key": 2955458928,
+      "kind": 0,
+      "kit_index": 219,
+      "archive_hi": 1303200727,
+      "archive_lo": 3423898185,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 84888171
+    },
+    {
+      "name": "IE-3 Martyr / Helmet",
+      "key": 1412199726,
+      "kind": 1,
+      "kit_index": 220,
+      "archive_hi": 4271956108,
+      "archive_lo": 4279246734,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2754954732
+    },
+    {
+      "name": "IE-12 Righteous / Armour",
+      "key": 2678678672,
+      "kind": 0,
+      "kit_index": 221,
+      "archive_hi": 3504240417,
+      "archive_lo": 3835984272,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2555924814
+    },
+    {
+      "name": "IE-12 Righteous / Helmet",
+      "key": 2331067702,
+      "kind": 1,
+      "kit_index": 222,
+      "archive_hi": 2733904403,
+      "archive_lo": 382525436,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3290540338
+    },
+    {
+      "name": "GS-17 Frontier Marshal / Armour",
+      "key": 384743520,
+      "kind": 0,
+      "kit_index": 223,
+      "archive_hi": 352200500,
+      "archive_lo": 3703099885,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3067569465
+    },
+    {
+      "name": "GS-17 Frontier Marshall / Helmet",
+      "key": 4131844227,
+      "kind": 1,
+      "kit_index": 224,
+      "archive_hi": 557563726,
+      "archive_lo": 3671216675,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 563831799
+    },
+    {
+      "name": "GS-66 Lawmaker / Armour",
+      "key": 3028464736,
+      "kind": 0,
+      "kit_index": 225,
+      "archive_hi": 13569783,
+      "archive_lo": 3750832750,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 20617448
+    },
+    {
+      "name": "GS-66 Lawmaker / Helmet",
+      "key": 620606144,
+      "kind": 1,
+      "kit_index": 226,
+      "archive_hi": 2785435643,
+      "archive_lo": 1091395100,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1539200886
+    },
+    {
+      "name": "RE-2310 Honorary Guard / Armour",
+      "key": 820333399,
+      "kind": 0,
+      "kit_index": 227,
+      "archive_hi": 3642986607,
+      "archive_lo": 2340510087,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3957418669
+    },
+    {
+      "name": "RE-2310 Honorary Guard / Helmet",
+      "key": 1745464610,
+      "kind": 1,
+      "kit_index": 228,
+      "archive_hi": 3033619220,
+      "archive_lo": 1530885751,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1658554228
+    },
+    {
+      "name": "RE-1861 Parade Commander / Armour",
+      "key": 3340614564,
+      "kind": 0,
+      "kit_index": 229,
+      "archive_hi": 972955395,
+      "archive_lo": 150229322,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3081927416
+    },
+    {
+      "name": "RE-1861 Parade Commander / Helmet",
+      "key": 1736175106,
+      "kind": 1,
+      "kit_index": 230,
+      "archive_hi": 800095610,
+      "archive_lo": 2610057898,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2555685810
+    },
+    {
+      "name": "AD-26 Bleeding Edge / Armour",
+      "key": 29533812,
+      "kind": 0,
+      "kit_index": 231,
+      "archive_hi": 498061868,
+      "archive_lo": 4241228472,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1546855424
+    },
+    {
+      "name": "AD-26 Bleeding Edge / Helmet",
+      "key": 3704509247,
+      "kind": 1,
+      "kit_index": 232,
+      "archive_hi": 2096915446,
+      "archive_lo": 922374450,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2393885006
+    },
+    {
+      "name": "AD-49 Apollonian / Armour",
+      "key": 169394743,
+      "kind": 0,
+      "kit_index": 233,
+      "archive_hi": 1958518009,
+      "archive_lo": 2372252095,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3202340536
+    },
+    {
+      "name": "AD-49 Apollonian / Helmet",
+      "key": 4173742975,
+      "kind": 1,
+      "kit_index": 234,
+      "archive_hi": 3319952006,
+      "archive_lo": 2668857014,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3116611839
+    },
+    {
+      "name": "BP-20 Correct Officer / Armour",
+      "key": 1086743388,
+      "kind": 0,
+      "kit_index": 235,
+      "archive_hi": 3840154719,
+      "archive_lo": 2620934384,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1809542137
+    },
+    {
+      "name": "BP-20 Correct Officer / Helmet",
+      "key": 995817415,
+      "kind": 1,
+      "kit_index": 236,
+      "archive_hi": 1153722022,
+      "archive_lo": 3473502603,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2615161341
+    },
+    {
+      "name": "BP-32 Jackboot / Armour",
+      "key": 162565828,
+      "kind": 0,
+      "kit_index": 237,
+      "archive_hi": 464741095,
+      "archive_lo": 1903794543,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 602374314
+    },
+    {
+      "name": "BP-32 Jackboot / Helmet",
+      "key": 2141814630,
+      "kind": 1,
+      "kit_index": 238,
+      "archive_hi": 712794722,
+      "archive_lo": 967169716,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 59431605
+    },
+    {
+      "name": "DS-42 Federation's Blade / Armour",
+      "key": 1247043334,
+      "kind": 0,
+      "kit_index": 239,
+      "archive_hi": 1411366039,
+      "archive_lo": 454750050,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2809605289
+    },
+    {
+      "name": "DS-42 Federation's Blade / Helmet",
+      "key": 3996008186,
+      "kind": 1,
+      "kit_index": 240,
+      "archive_hi": 2555569632,
+      "archive_lo": 3070915649,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3971713282
+    },
+    {
+      "name": "DS-191 Scorpion / Armour",
+      "key": 182347545,
+      "kind": 0,
+      "kit_index": 241,
+      "archive_hi": 3054414550,
+      "archive_lo": 2224186405,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3218502754
+    },
+    {
+      "name": "DS-191 Scorpion / Helmet",
+      "key": 4074553940,
+      "kind": 1,
+      "kit_index": 242,
+      "archive_hi": 3690803813,
+      "archive_lo": 2008683119,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 4088040979
+    },
+    {
+      "name": "RS-20 Constrictor / Armour",
+      "key": 3964025007,
+      "kind": 0,
+      "kit_index": 243,
+      "archive_hi": 1829237159,
+      "archive_lo": 392881616,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3815716893
+    },
+    {
+      "name": "RS-20 Constrictor / Helmet",
+      "key": 3840063003,
+      "kind": 1,
+      "kit_index": 244,
+      "archive_hi": 744454288,
+      "archive_lo": 3466294710,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2588890375
+    },
+    {
+      "name": "RS-40 Beast of Prey / Armour",
+      "key": 3686931097,
+      "kind": 0,
+      "kit_index": 245,
+      "archive_hi": 668343317,
+      "archive_lo": 2902370830,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 522266733
+    },
+    {
+      "name": "RS-40 Beast of Prey / Helmet",
+      "key": 3978514634,
+      "kind": 1,
+      "kit_index": 246,
+      "archive_hi": 2951544754,
+      "archive_lo": 1577687181,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 4075141262
+    },
+    {
+      "name": "SA-7 Headfirst / Armour",
+      "key": 3349510191,
+      "kind": 0,
+      "kit_index": 247,
+      "archive_hi": 3633706055,
+      "archive_lo": 3543319345,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 187766962
+    },
+    {
+      "name": "SA-7 Headfirst / Helmet",
+      "key": 2660793694,
+      "kind": 1,
+      "kit_index": 248,
+      "archive_hi": 1906220661,
+      "archive_lo": 4153464192,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3479659906
+    },
+    {
+      "name": "SA-8 Ram / Armour",
+      "key": 3063804173,
+      "kind": 0,
+      "kit_index": 249,
+      "archive_hi": 335941137,
+      "archive_lo": 1044509867,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1404281278
+    },
+    {
+      "name": "SA-8 Ram / Helmet",
+      "key": 2030836577,
+      "kind": 1,
+      "kit_index": 250,
+      "archive_hi": 2804596713,
+      "archive_lo": 1634169311,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1838148512
+    },
+    {
+      "name": "PH-9 Predator / Armour",
+      "key": 1924428455,
+      "kind": 0,
+      "kit_index": 251,
+      "archive_hi": 1090187538,
+      "archive_lo": 4060289258,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1877242796
+    },
+    {
+      "name": "PH-9 Predator / Helmet",
+      "key": 456121928,
+      "kind": 1,
+      "kit_index": 252,
+      "archive_hi": 4040863377,
+      "archive_lo": 2718072791,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2788735945
+    },
+    {
+      "name": "PH-202 Twigsnapper / Armour",
+      "key": 3731036712,
+      "kind": 0,
+      "kit_index": 253,
+      "archive_hi": 2865062567,
+      "archive_lo": 2099787396,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1664632640
+    },
+    {
+      "name": "PH-202 Twigsnapper / Helmet",
+      "key": 1470624541,
+      "kind": 1,
+      "kit_index": 254,
+      "archive_hi": 209636737,
+      "archive_lo": 1456775145,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3728975654
+    },
+    {
+      "name": "I-09 Heatseeker / Armour",
+      "key": 756930608,
+      "kind": 0,
+      "kit_index": 255,
+      "archive_hi": 3069379222,
+      "archive_lo": 1721999336,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3015649355
+    },
+    {
+      "name": "I-09 Heatseeker / Helmet",
+      "key": 2983207423,
+      "kind": 1,
+      "kit_index": 256,
+      "archive_hi": 2564107108,
+      "archive_lo": 1920808491,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3316979892
+    },
+    {
+      "name": "I-102 Draconaught / Armour",
+      "key": 1449312627,
+      "kind": 0,
+      "kit_index": 257,
+      "archive_hi": 1473166718,
+      "archive_lo": 1603820869,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 267424901
+    },
+    {
+      "name": "I-102 Draconaught / Helmet",
+      "key": 1938372630,
+      "kind": 1,
+      "kit_index": 258,
+      "archive_hi": 3925274449,
+      "archive_lo": 3600022997,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2794703739
+    },
+    {
+      "name": "AC-1 Dutiful / Armour",
+      "key": 2890020275,
+      "kind": 0,
+      "kit_index": 263,
+      "archive_hi": 637144861,
+      "archive_lo": 1114298045,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 888714536
+    },
+    {
+      "name": "AC-1 Dutiful / Helmet",
+      "key": 2928638796,
+      "kind": 1,
+      "kit_index": 264,
+      "archive_hi": 1112534305,
+      "archive_lo": 37446157,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 2800085991
+    },
+    {
+      "name": "AC-2 Obedient / Armour",
+      "key": 1442671003,
+      "kind": 0,
+      "kit_index": 265,
+      "archive_hi": 1175400366,
+      "archive_lo": 3794753616,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1631026563
+    },
+    {
+      "name": "AC-2 Obedient / Helmet",
+      "key": 681084148,
+      "kind": 1,
+      "kit_index": 266,
+      "archive_hi": 135212816,
+      "archive_lo": 455063286,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3352094518
+    },
+    {
+      "name": "O-3 Free Spirit / Armour",
+      "key": 4159107367,
+      "kind": 0,
+      "kit_index": 267,
+      "archive_hi": 4191081176,
+      "archive_lo": 2558031621,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3967406947
+    },
+    {
+      "name": "O-3 Free Spirit / Helmet",
+      "key": 2366040666,
+      "kind": 1,
+      "kit_index": 268,
+      "archive_hi": 2727973895,
+      "archive_lo": 2250610143,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 606368587
+    },
+    {
+      "name": "O-2 Heavy Operator / Armour",
+      "key": 779120056,
+      "kind": 0,
+      "kit_index": 269,
+      "archive_hi": 1609316183,
+      "archive_lo": 1146899990,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2917896249
+    },
+    {
+      "name": "O-2 Heavy Operator / Helmet",
+      "key": 3788138551,
+      "kind": 1,
+      "kit_index": 270,
+      "archive_hi": 1581269069,
+      "archive_lo": 2221615872,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 941620961
+    },
+    {
+      "name": "TG-8 Sharpshooter / Armour",
+      "key": 1561165826,
+      "kind": 0,
+      "kit_index": 271,
+      "archive_hi": 339012732,
+      "archive_lo": 4042125756,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2022698159
+    },
+    {
+      "name": "TG-8 Sharpshooter / Helmet",
+      "key": 191298645,
+      "kind": 1,
+      "kit_index": 272,
+      "archive_hi": 3204896650,
+      "archive_lo": 579614980,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 709947019
+    },
+    {
+      "name": "TG-122 Demo-Trooper / Armour",
+      "key": 2756937165,
+      "kind": 0,
+      "kit_index": 273,
+      "archive_hi": 3149628569,
+      "archive_lo": 1414235119,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 459709488
+    },
+    {
+      "name": "TG-122 Demo-Trooper / Helmet",
+      "key": 3244366537,
+      "kind": 1,
+      "kit_index": 274,
+      "archive_hi": 2232920381,
+      "archive_lo": 1847174510,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 556991843
+    },
+    {
+      "name": "RS-89 SHADOW PARAGON / Armour",
+      "key": 2933292304,
+      "kind": 0,
+      "kit_index": 275,
+      "archive_hi": 2245235318,
+      "archive_lo": 2348196441,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 521433875
+    },
+    {
+      "name": "RS-89 Shadow Paragon / Helmet",
+      "key": 3495384269,
+      "kind": 1,
+      "kit_index": 276,
+      "archive_hi": 2152612035,
+      "archive_lo": 291411536,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 962975775
+    },
+    {
+      "name": "RS-67 Null Cipher / Armour",
+      "key": 3389596022,
+      "kind": 0,
+      "kit_index": 277,
+      "archive_hi": 417985616,
+      "archive_lo": 4280450920,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 267139539
+    },
+    {
+      "name": "RS-67 Null Cipher / Helmet",
+      "key": 1483828753,
+      "kind": 1,
+      "kit_index": 278,
+      "archive_hi": 2967181165,
+      "archive_lo": 2561682069,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 3157942416
+    },
+    {
+      "name": "BFM-16 TANKER / Armour",
+      "key": 2355815292,
+      "kind": 0,
+      "kit_index": 279,
+      "archive_hi": 1461169842,
+      "archive_lo": 930391881,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 4120395268
+    },
+    {
+      "name": "BFM-16 Tanker / Helmet",
+      "key": 761393401,
+      "kind": 1,
+      "kit_index": 280,
+      "archive_hi": 1608189037,
+      "archive_lo": 1487389323,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1596272942
+    },
+    {
+      "name": "BFM-220 Ironclad / Armour",
+      "key": 4172861339,
+      "kind": 0,
+      "kit_index": 281,
+      "archive_hi": 1523632063,
+      "archive_lo": 1211971626,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1964240160
+    },
+    {
+      "name": "BFM-220 Ironclad / Helmet",
+      "key": 935728706,
+      "kind": 1,
+      "kit_index": 282,
+      "archive_hi": 2681070955,
+      "archive_lo": 1513514994,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1274662032
+    },
+    {
+      "name": "CPG-48 SAPPER / Armour",
+      "key": 1594318277,
+      "kind": 0,
+      "kit_index": 283,
+      "archive_hi": 3880030728,
+      "archive_lo": 2843714094,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 1989245133
+    },
+    {
+      "name": "CPG-48 Sapper / Helmet",
+      "key": 4256773666,
+      "kind": 1,
+      "kit_index": 284,
+      "archive_hi": 3573251425,
+      "archive_lo": 2906691649,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 111225460
+    },
+    {
+      "name": "CPH-26 COMMANDANT / Armour",
+      "key": 606536357,
+      "kind": 0,
+      "kit_index": 285,
+      "archive_hi": 2176787899,
+      "archive_lo": 3712361665,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 3505344744
+    },
+    {
+      "name": "CPH-26 Commandant / Helmet",
+      "key": 927211561,
+      "kind": 1,
+      "kit_index": 286,
+      "archive_hi": 2792985591,
+      "archive_lo": 2941621464,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 192432627
+    },
+    {
+      "name": "FS-23 Battle Master / Armour",
+      "key": 651522724,
+      "kind": 0,
+      "kit_index": 287,
+      "archive_hi": 2432865163,
+      "archive_lo": 1261105053,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2037274048
+    },
+    {
+      "name": "FS-23 Battle Master / TR-62 Knight / Helmet",
+      "key": 513033465,
+      "kind": 1,
+      "kit_index": 288,
+      "archive_hi": 2564458960,
+      "archive_lo": 3574802535,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 1452909167
+    },
+    {
+      "name": "CW-36 Winter Warrior / Armour",
+      "key": 190632838,
+      "kind": 0,
+      "kit_index": 291,
+      "archive_hi": 2065280383,
+      "archive_lo": 567494580,
+      "body_count": 3,
+      "allow_append": true,
+      "template_key": 2342442877,
+      "record_key": 2121537836
+    },
+    {
+      "name": "CW-36 Winter Warrior / Helmet",
+      "key": 3443335388,
+      "kind": 1,
+      "kit_index": 292,
+      "archive_hi": 2633842713,
+      "archive_lo": 3767545768,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 2141363041,
+      "record_key": 108697242
+    },
+    {
+      "name": "Tyrant Hunter / Cape",
+      "key": 1090563915,
+      "kind": 2,
+      "kit_index": 294,
+      "archive_hi": 1780280227,
+      "archive_lo": 2831531707,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1090563915
+    },
+    {
+      "name": "Bastion of Integrity / Cape",
+      "key": 2653547055,
+      "kind": 2,
+      "kit_index": 295,
+      "archive_hi": 4282829992,
+      "archive_lo": 2978943542,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2653547055
+    },
+    {
+      "name": "Cloak of Posterity's Gratitude / Cape",
+      "key": 3598091569,
+      "kind": 2,
+      "kit_index": 296,
+      "archive_hi": 1910143849,
+      "archive_lo": 3715260690,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3598091569
+    },
+    {
+      "name": "Botslayer / Cape",
+      "key": 734807139,
+      "kind": 2,
+      "kit_index": 297,
+      "archive_hi": 3243855202,
+      "archive_lo": 2067961389,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 734807139
+    },
+    {
+      "name": "Martyris Rex / Cape",
+      "key": 3239075772,
+      "kind": 2,
+      "kit_index": 298,
+      "archive_hi": 3623123253,
+      "archive_lo": 3635064790,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3239075772
+    },
+    {
+      "name": "Eagle's Fury / Cape",
+      "key": 2040543168,
+      "kind": 2,
+      "kit_index": 302,
+      "archive_hi": 1868070482,
+      "archive_lo": 1175987341,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2040543168
+    },
+    {
+      "name": "Judgement Day / Cape",
+      "key": 3259725045,
+      "kind": 2,
+      "kit_index": 304,
+      "archive_hi": 2776684302,
+      "archive_lo": 519407115,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3259725045
+    },
+    {
+      "name": "Blazing Samaritan / Cape",
+      "key": 4176085421,
+      "kind": 2,
+      "kit_index": 306,
+      "archive_hi": 295918837,
+      "archive_lo": 1209764612,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4176085421
+    },
+    {
+      "name": "The Cape of Stars and Suffrage / Cape",
+      "key": 4000666917,
+      "kind": 2,
+      "kit_index": 307,
+      "archive_hi": 2328670246,
+      "archive_lo": 1437990127,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4000666917
+    },
+    {
+      "name": "JUSTICE FOR ALL / Cape",
+      "key": 3616764107,
+      "kind": 2,
+      "kit_index": 308,
+      "archive_hi": 2671638838,
+      "archive_lo": 3865632990,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3616764107
+    },
+    {
+      "name": "Will of the People / Cape",
+      "key": 2007907056,
+      "kind": 2,
+      "kit_index": 309,
+      "archive_hi": 3220875321,
+      "archive_lo": 3717816364,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2007907056
+    },
+    {
+      "name": "Mantle of True Citizenship / Cape",
+      "key": 843390517,
+      "kind": 2,
+      "kit_index": 311,
+      "archive_hi": 740109857,
+      "archive_lo": 113156907,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 843390517
+    },
+    {
+      "name": "Freedom's Tapestry / Cape",
+      "key": 2098201552,
+      "kind": 2,
+      "kit_index": 312,
+      "archive_hi": 1083078449,
+      "archive_lo": 2540925276,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2098201552
+    },
+    {
+      "name": "Harbinger of True Equality / Cape",
+      "key": 308572558,
+      "kind": 2,
+      "kit_index": 313,
+      "archive_hi": 148800006,
+      "archive_lo": 2016878793,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 308572558
+    },
+    {
+      "name": "Cover of Darkness / Cape",
+      "key": 66704491,
+      "kind": 2,
+      "kit_index": 332,
+      "archive_hi": 3768550062,
+      "archive_lo": 1844177637,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 66704491
+    },
+    {
+      "name": "Stone-Wrought Perseverance / Cape",
+      "key": 1123234369,
+      "kind": 2,
+      "kit_index": 333,
+      "archive_hi": 1020116819,
+      "archive_lo": 934177921,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1123234369
+    },
+    {
+      "name": "Vision of Freedom / Cape",
+      "key": 1165305553,
+      "kind": 2,
+      "kit_index": 334,
+      "archive_hi": 728155471,
+      "archive_lo": 1706062209,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1165305553
+    },
+    {
+      "name": "Veil of the Valorous Vagabond / Cape",
+      "key": 452377187,
+      "kind": 2,
+      "kit_index": 335,
+      "archive_hi": 3013794885,
+      "archive_lo": 1591383862,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 452377187
+    },
+    {
+      "name": "Seal of General Consensus / Cape",
+      "key": 2679756720,
+      "kind": 2,
+      "kit_index": 336,
+      "archive_hi": 337396294,
+      "archive_lo": 1210898910,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2679756720
+    },
+    {
+      "name": "Schema Laid Bare / Cape",
+      "key": 4129649228,
+      "kind": 2,
+      "kit_index": 337,
+      "archive_hi": 2778190520,
+      "archive_lo": 3471264228,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4129649228
+    },
+    {
+      "name": "Badge of Order / Cape",
+      "key": 3041241535,
+      "kind": 2,
+      "kit_index": 338,
+      "archive_hi": 2186478509,
+      "archive_lo": 1446346507,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3041241535
+    },
+    {
+      "name": "Eternal Corona / Cape",
+      "key": 4111578760,
+      "kind": 2,
+      "kit_index": 339,
+      "archive_hi": 2894390922,
+      "archive_lo": 1805456265,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4111578760
+    },
+    {
+      "name": "De-Forester's Sailcloth / Cape",
+      "key": 285054471,
+      "kind": 2,
+      "kit_index": 342,
+      "archive_hi": 2359638778,
+      "archive_lo": 2142385936,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 285054471
+    },
+    {
+      "name": "Diagram of the Noblest Payload / Cape",
+      "key": 2811514902,
+      "kind": 2,
+      "kit_index": 343,
+      "archive_hi": 3373006127,
+      "archive_lo": 1938853351,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2811514902
+    },
+    {
+      "name": "Gilded Quill / Cape",
+      "key": 3555231182,
+      "kind": 2,
+      "kit_index": 344,
+      "archive_hi": 1246083595,
+      "archive_lo": 4135559253,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3555231182
+    },
+    {
+      "name": "Tread of Liberty / Cape",
+      "key": 436377568,
+      "kind": 2,
+      "kit_index": 345,
+      "archive_hi": 1476229356,
+      "archive_lo": 515452751,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 436377568
+    },
+    {
+      "name": "Testament To Attrition / Cape",
+      "key": 3026953460,
+      "kind": 2,
+      "kit_index": 346,
+      "archive_hi": 2874168269,
+      "archive_lo": 2675228285,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3026953460
+    },
+    {
+      "name": "Standard of Safe Distance / Cape",
+      "key": 342959649,
+      "kind": 2,
+      "kit_index": 347,
+      "archive_hi": 2565007517,
+      "archive_lo": 3669904705,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 342959649
+    },
+    {
+      "name": "Patient Zero's Rememberance / Cape",
+      "key": 4237429476,
+      "kind": 2,
+      "kit_index": 348,
+      "archive_hi": 3303716690,
+      "archive_lo": 2661351714,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4237429476
+    },
+    {
+      "name": "Pride of the Whistleblower / Cape",
+      "key": 1126585234,
+      "kind": 2,
+      "kit_index": 349,
+      "archive_hi": 523303477,
+      "archive_lo": 2749075522,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1126585234
+    },
+    {
+      "name": "Proof of Faultless Virtue / Cape",
+      "key": 3965478926,
+      "kind": 2,
+      "kit_index": 350,
+      "archive_hi": 3407049185,
+      "archive_lo": 3680053343,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3965478926
+    },
+    {
+      "name": "Greatcloak of Rebar Resolve / Cape",
+      "key": 3519089118,
+      "kind": 2,
+      "kit_index": 351,
+      "archive_hi": 243800180,
+      "archive_lo": 2781132533,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3519089118
+    },
+    {
+      "name": "Holder of the Yellow Line / Cape",
+      "key": 4171120414,
+      "kind": 2,
+      "kit_index": 352,
+      "archive_hi": 4048031126,
+      "archive_lo": 4152688370,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4171120414
+    },
+    {
+      "name": "Fre Liberum / Cape",
+      "key": 958121814,
+      "kind": 2,
+      "kit_index": 353,
+      "archive_hi": 3727864725,
+      "archive_lo": 2167912341,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 958121814
+    },
+    {
+      "name": "Per Democrasum / Cape",
+      "key": 147568459,
+      "kind": 2,
+      "kit_index": 354,
+      "archive_hi": 4158509447,
+      "archive_lo": 3861235757,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 147568459
+    },
+    {
+      "name": "Reaper of Bounties / Cape",
+      "key": 3164866294,
+      "kind": 2,
+      "kit_index": 355,
+      "archive_hi": 3589140774,
+      "archive_lo": 3363653202,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3164866294
+    },
+    {
+      "name": "Covering Fire / Cape",
+      "key": 975741671,
+      "kind": 2,
+      "kit_index": 356,
+      "archive_hi": 3407843210,
+      "archive_lo": 2748101088,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 975741671
+    },
+    {
+      "name": "Federation's Embrace / Cape",
+      "key": 456906913,
+      "kind": 2,
+      "kit_index": 357,
+      "archive_hi": 3240185116,
+      "archive_lo": 1647887002,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 456906913
+    },
+    {
+      "name": "Humble Regalia / Cape",
+      "key": 1440027723,
+      "kind": 2,
+      "kit_index": 358,
+      "archive_hi": 3875759583,
+      "archive_lo": 3951694200,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1440027723
+    },
+    {
+      "name": "Conductor of Brilliance / Cape",
+      "key": 3954339443,
+      "kind": 2,
+      "kit_index": 359,
+      "archive_hi": 1773869274,
+      "archive_lo": 2681137415,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3954339443
+    },
+    {
+      "name": "Over Artifice Triumphant / Cape",
+      "key": 376718346,
+      "kind": 2,
+      "kit_index": 360,
+      "archive_hi": 1592571710,
+      "archive_lo": 2065615134,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 376718346
+    },
+    {
+      "name": "Miranda's Legacy / Cape",
+      "key": 1148253951,
+      "kind": 2,
+      "kit_index": 361,
+      "archive_hi": 1897134107,
+      "archive_lo": 2484924018,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1148253951
+    },
+    {
+      "name": "Mother Eagle's Wings / Cape",
+      "key": 1006046695,
+      "kind": 2,
+      "kit_index": 362,
+      "archive_hi": 1801063451,
+      "archive_lo": 2568258383,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1006046695
+    },
+    {
+      "name": "Rightful Occupier / Cape",
+      "key": 819008890,
+      "kind": 2,
+      "kit_index": 363,
+      "archive_hi": 3501695267,
+      "archive_lo": 3842997558,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 819008890
+    },
+    {
+      "name": "Windswept Wayfinder / Cape",
+      "key": 2129553675,
+      "kind": 2,
+      "kit_index": 364,
+      "archive_hi": 3418411123,
+      "archive_lo": 4021582638,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2129553675
+    },
+    {
+      "name": "Dissident's Nightmare / Cape",
+      "key": 4282790522,
+      "kind": 2,
+      "kit_index": 365,
+      "archive_hi": 40843240,
+      "archive_lo": 3125576846,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4282790522
+    },
+    {
+      "name": "Pinions of Everlasting Glory / Cape",
+      "key": 2871629098,
+      "kind": 2,
+      "kit_index": 366,
+      "archive_hi": 3501499199,
+      "archive_lo": 1073396890,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2871629098
+    },
+    {
+      "name": "Order of the Venerated Ballot / Cape",
+      "key": 3892781112,
+      "kind": 2,
+      "kit_index": 367,
+      "archive_hi": 3872871821,
+      "archive_lo": 1227159996,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3892781112
+    },
+    {
+      "name": "Mark of the Crimson Fang / Cape",
+      "key": 2646411735,
+      "kind": 2,
+      "kit_index": 368,
+      "archive_hi": 977862381,
+      "archive_lo": 2101258642,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2646411735
+    },
+    {
+      "name": "Executioner's Canopy / Cape",
+      "key": 291340630,
+      "kind": 2,
+      "kit_index": 369,
+      "archive_hi": 172595804,
+      "archive_lo": 491309889,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 291340630
+    },
+    {
+      "name": "Purifying Eclipse / Cape",
+      "key": 160503527,
+      "kind": 2,
+      "kit_index": 370,
+      "archive_hi": 1380975006,
+      "archive_lo": 1213610399,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 160503527
+    },
+    {
+      "name": "The Breach / Cape",
+      "key": 3867039847,
+      "kind": 2,
+      "kit_index": 371,
+      "archive_hi": 388017143,
+      "archive_lo": 3643334754,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3867039847
+    },
+    {
+      "name": "Strength in our Arms / Cape",
+      "key": 939953131,
+      "kind": 2,
+      "kit_index": 374,
+      "archive_hi": 146107356,
+      "archive_lo": 1852462678,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 939953131
+    },
+    {
+      "name": "Foe Rent Asunder / Cape",
+      "key": 4083075675,
+      "kind": 2,
+      "kit_index": 376,
+      "archive_hi": 1643666316,
+      "archive_lo": 469334787,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4083075675
+    },
+    {
+      "name": "Mark of the Constrictor / Cape",
+      "key": 1691924999,
+      "kind": 2,
+      "kit_index": 377,
+      "archive_hi": 4251425856,
+      "archive_lo": 1890365507,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1691924999
+    },
+    {
+      "name": "Free-Spirited Spangles / Cape",
+      "key": 2261422476,
+      "kind": 2,
+      "kit_index": 378,
+      "archive_hi": 2703862373,
+      "archive_lo": 1713948762,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2261422476
+    },
+    {
+      "name": "Watchful Compatriot / Cape",
+      "key": 3130927131,
+      "kind": 2,
+      "kit_index": 379,
+      "archive_hi": 2444766351,
+      "archive_lo": 983669751,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3130927131
+    },
+    {
+      "name": "Honored Heirloom / Cape",
+      "key": 1392007336,
+      "kind": 2,
+      "kit_index": 380,
+      "archive_hi": 2769242146,
+      "archive_lo": 356510297,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1392007336
+    },
+    {
+      "name": "Eye of the Clandestine / Cape",
+      "key": 3837863752,
+      "kind": 2,
+      "kit_index": 381,
+      "archive_hi": 2964231500,
+      "archive_lo": 194479443,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3837863752
+    },
+    {
+      "name": "Camo Cloak / Cape",
+      "key": 1917125054,
+      "kind": 2,
+      "kit_index": 382,
+      "archive_hi": 1036619731,
+      "archive_lo": 1054349171,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1917125054
+    },
+    {
+      "name": "City Fighter's Resolve / Cape",
+      "key": 2588059193,
+      "kind": 2,
+      "kit_index": 383,
+      "archive_hi": 2516684598,
+      "archive_lo": 1738015910,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2588059193
+    },
+    {
+      "name": "Rags of the Fashionable / Cape",
+      "key": 2491991003,
+      "kind": 2,
+      "kit_index": 384,
+      "archive_hi": 1142985069,
+      "archive_lo": 3227973858,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2491991003
+    },
+    {
+      "name": "Wedgeful Tricorn / Cape",
+      "key": 585941262,
+      "kind": 2,
+      "kit_index": 385,
+      "archive_hi": 2581285616,
+      "archive_lo": 2598707647,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 585941262
+    },
+    {
+      "name": "Pillar of the Abyss / Cape",
+      "key": 1325899013,
+      "kind": 2,
+      "kit_index": 386,
+      "archive_hi": 3859599021,
+      "archive_lo": 3577328082,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1325899013
+    },
+    {
+      "name": "Triangulation Veil / Cape",
+      "key": 114520195,
+      "kind": 2,
+      "kit_index": 387,
+      "archive_hi": 2897679290,
+      "archive_lo": 3958603164,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 114520195
+    },
+    {
+      "name": "Standard of Rapid Evacuation / Cape",
+      "key": 1305396035,
+      "kind": 2,
+      "kit_index": 388,
+      "archive_hi": 2209561271,
+      "archive_lo": 652229077,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1305396035
+    },
+    {
+      "name": "Shroud of the Juggernaut / Cape",
+      "key": 2317175836,
+      "kind": 2,
+      "kit_index": 389,
+      "archive_hi": 3288941905,
+      "archive_lo": 3674763502,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2317175836
+    },
+    {
+      "name": "Dignity of Toil / Cape",
+      "key": 2630208565,
+      "kind": 2,
+      "kit_index": 390,
+      "archive_hi": 2091819174,
+      "archive_lo": 833612639,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2630208565
+    },
+    {
+      "name": "Crest of the Unsullied / Cape",
+      "key": 1031686855,
+      "kind": 2,
+      "kit_index": 391,
+      "archive_hi": 536456340,
+      "archive_lo": 3050883021,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1031686855
+    },
+    {
+      "name": "Tideturner / Cape",
+      "key": 2321467216,
+      "kind": 2,
+      "kit_index": 392,
+      "archive_hi": 4223115658,
+      "archive_lo": 779764565,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2321467216
+    },
+    {
+      "name": "Pillars of Freedom / Cape",
+      "key": 3180731004,
+      "kind": 2,
+      "kit_index": 397,
+      "archive_hi": 202944468,
+      "archive_lo": 2757716222,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3180731004
+    },
+    {
+      "name": "Unblemished Allegiance / Cape",
+      "key": 4124916847,
+      "kind": 2,
+      "kit_index": 398,
+      "archive_hi": 1203844799,
+      "archive_lo": 3469380743,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 4124916847
+    },
+    {
+      "name": "Light of Eternal Liberty / Cape",
+      "key": 1853027475,
+      "kind": 2,
+      "kit_index": 399,
+      "archive_hi": 1255325921,
+      "archive_lo": 3947591955,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1853027475
+    },
+    {
+      "name": "Cresting Honor / Cape",
+      "key": 1404455928,
+      "kind": 2,
+      "kit_index": 401,
+      "archive_hi": 3020446190,
+      "archive_lo": 1516938675,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1404455928
+    },
+    {
+      "name": "Liberty's Herald / Cape",
+      "key": 3562998132,
+      "kind": 2,
+      "kit_index": 402,
+      "archive_hi": 1383200316,
+      "archive_lo": 3314717405,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3562998132
+    },
+    {
+      "name": "Foe Smasher / Cape",
+      "key": 1180159923,
+      "kind": 2,
+      "kit_index": 403,
+      "archive_hi": 266898843,
+      "archive_lo": 150404736,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1180159923
+    },
+    {
+      "name": "Independence Bringer / Cape",
+      "key": 752209840,
+      "kind": 2,
+      "kit_index": 404,
+      "archive_hi": 2601108123,
+      "archive_lo": 1342476220,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 752209840
+    },
+    {
+      "name": "Drape of Glory / Cape",
+      "key": 3359335006,
+      "kind": 2,
+      "kit_index": 405,
+      "archive_hi": 4018102518,
+      "archive_lo": 180949152,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 3359335006
+    },
+    {
+      "name": "Wings of Valor / Cape",
+      "key": 1790198010,
+      "kind": 2,
+      "kit_index": 406,
+      "archive_hi": 2767522435,
+      "archive_lo": 902022427,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 1790198010
+    },
+    {
+      "name": "Eagle's Fury / Cape",
+      "key": 285943304,
+      "kind": 2,
+      "kit_index": 407,
+      "archive_hi": 3683028922,
+      "archive_lo": 3530879501,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 285943304
+    },
+    {
+      "name": "Unblemished Allegiance / Cape",
+      "key": 2779185355,
+      "kind": 2,
+      "kit_index": 408,
+      "archive_hi": 1261471089,
+      "archive_lo": 2472998386,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 2779185355
+    },
+    {
+      "name": "Drape of Glory / Cape",
+      "key": 112836163,
+      "kind": 2,
+      "kit_index": 409,
+      "archive_hi": 1350528040,
+      "archive_lo": 2063587516,
+      "body_count": 1,
+      "allow_append": true,
+      "template_key": 865246378,
+      "record_key": 112836163
+    }
+  ]
+}

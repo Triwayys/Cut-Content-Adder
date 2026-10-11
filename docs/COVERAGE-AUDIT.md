@@ -1,0 +1,613 @@
+> Historical v0.1.12 evidence. For the v0.1.13 additions and current scope, see VARIANT-AUDIT.md and Source/catalogue.json.
+
+# Coverage audit — v0.1.9
+
+50 enabled targets; 561 removed from v0.1.8. Removed does not necessarily mean ordinary: unidentified or ambiguous entries are also held out. Every runtime target is explicitly listed in ITEM-CATALOGUE.md.
+
+## Unresolved cosmetic entries
+
+These are not enabled. Their names do not establish a distinct hidden reward or safe acquisition classification.
+
+| Label | Kit ID |
+| --- | --- |
+| AF-91 Field Chemist (variant) / Helmet | 0xf6ae9439 |
+| AF-91 Field Chemist (variant) / Helmet | 0xfe3437e9 |
+| TBD / Armour | 0x9f212504 |
+| TBD / Helmet | 0xa57e78ba |
+| SC-37 Legionnaire (variant) / Helmet | 0xe406ced0 |
+| SC-37 Legionnaire (variant) / Helmet | 0x44d93620 |
+| SC-30 Trailblazer Scout (variant) / Helmet | 0x9b5bc520 |
+| SC-30 Trailblazer Scout (variant) / Helmet | 0xdb7db6aa |
+| SC-30 Trailblazer Scout (variant) / Helmet | 0x8507bb35 |
+| SC-30 Trailblazer Scout (variant) / Helmet | 0x020a57a8 |
+| SC-30 Trailblazer Scout (variant) / Helmet | 0x52045a9b |
+| SC-30 Trailblazer Scout (variant) / Helmet | 0x782087b2 |
+| SC-34 Infiltrator (variant) / Helmet | 0x5c1a87d2 |
+| SC-34 Infiltrator (variant) / Helmet | 0x68aa2d85 |
+| SC-34 Infiltrator (variant) / Helmet | 0x126f9cb6 |
+| SC-34 Infiltrator (variant) / Helmet | 0x0542e6f1 |
+| SC-34 Infiltrator (variant) / Helmet | 0xb6a2f46a |
+| SC-34 Infiltrator (variant) / Helmet | 0xa2f4f328 |
+| TBD / Helmet | 0x8ce73dae |
+| Unidentified kit / Armour | 0x1348e7c7 |
+| Unidentified kit / Cape | 0x0beb97bc |
+| Unidentified kit / Cape | 0x5a32915a |
+| Unidentified kit / Cape | 0x1fe1655f |
+| Unidentified kit / Cape | 0xacef36f7 |
+| Unidentified kit / Cape | 0x5eb11243 |
+| Unidentified kit / Cape | 0x0b84e99d |
+
+## All removed targets
+
+This is the precise difference from v0.1.8, not a claim that all excluded entries share the same acquisition route.
+
+### Weapons
+
+- AR-11 Arbitrator
+- AR-2 Coyote
+- AR-23 Liberator
+- AR-23A Liberator Carbine
+- AR-23C Liberator Concussive
+- AR-23P Liberator Penetrator
+- AR-32 Pacifier
+- AR-59 Suppressor
+- AR-61 Tenderizer
+- AR/GL-21 One-Two
+- ARC-12 Blitzer
+- BR-14 Adjudicator
+- CB-9 Exploding Crossbow
+- DBS-2 Double Freedom
+- FLAM-66 Torcher
+- GL-15 Evictor
+- JAR-5 Dominator
+- LAS-12 Sai
+- LAS-13 Trident
+- LAS-16 Sickle
+- LAS-17 Double-Edge Sickle
+- LAS-5 Scythe
+- M7S SMG
+- M90A Shotgun
+- MA5C Assault Rifle
+- MP-98 Knight
+- PLAS-1 Scorcher
+- PLAS-101 Purifier
+- PLAS-39 Accelerator Rifle
+- R-2 Amendment
+- R-36 Eruptor
+- R-6 Deadeye
+- R-63 Diligence
+- R-63CS Diligence Counter Sniper
+- R-72 Censor
+- R/40-K Hot-Shot Marksman Rifle
+- SG-20 Halt
+- SG-225 Breaker
+- SG-225IE Breaker Incendiary
+- SG-225SP Breaker Spray&Pray
+- SG-451 Cookout
+- SG-8 Punisher
+- SG-8P Punisher Plasma
+- SG-8S Slugger
+- SG-97 Sweeper
+- SMG-203 Gallant
+- SMG-32 Reprimand
+- SMG-37 Defender
+- SMG-72 Pummeler
+- SMG/FLAM-34 Stoker
+- StA-11 SMG
+- StA-52 Assault Rifle
+- VG-70 Variable
+- CQC-19 Stun Lance
+- CQC-2 Saber
+- CQC-30 Stun Baton
+- CQC-42 Machete
+- CQC-5 Combat Hatchet
+- CQC-73 Entrenchment Tool
+- GP-20 Ultimatum
+- GP-31 Grenade Pistol
+- LAS-58 Talon
+- LAS-7 Dagger
+- M6C/SOCOM Pistol
+- P-11 Stim Pistol
+- P-113 Verdict
+- P-19 Redeemer
+- P-2 Peacemaker
+- P-33 Missile Pistol
+- P-34 Breacher
+- P-35 Re-Educator
+- P-4 Senator
+- P-69 Veto
+- P-72 Crisper
+- P-92 Warrant
+- P/40-K Bolt Pistol
+- PLAS-15 Loyalist
+- SG-22 Bushwhacker
+- G-10 Incendiary
+- G-109 Urchin
+- G-12 High Explosive
+- G-123 Thermite
+- G-13 Incendiary Impact
+- G-142 Pyrotech
+- G-16 Impact
+- G-23 Stun
+- G-3 Smoke
+- G-31 Arc
+- G-4 Gas
+- G-48 Giga Grenade
+- G-50 Seeker
+- G-6 Frag
+- G-60 Anti-Tank Seeker
+- G-7 Pineapple
+- G-8 Immolation
+- G-89 Smokescreen
+- G/40-K Melta Mine
+- G/SH-39 Shield
+- K-2 Throwing Knife
+- TED-63 Dynamite
+- TM-1 Lure Mine
+
+### Stratagems
+
+- Orbital illumination flare (removed at user request)
+
+- Orbital Precision Strike [0xd2062cbc]
+- Orbital Gatling Barrage [0x7c414c59]
+- Orbital Gas Strike [0xbe55db09]
+- Orbital 120mm HE Barrage [0x3f6103f6]
+- Orbital Airburst Strike [0x5d020fdd]
+- Orbital Smoke Strike [0xdd588e38]
+- Orbital EMS Strike [0x4c561b17]
+- Orbital 380mm HE Barrage [0xb948340b]
+- Orbital Walking Barrage [0xc37dfb01]
+- Orbital Laser [0x39d7e6a4]
+- Orbital Napalm Barrage [0xad00e173]
+- Orbital Railcannon Strike [0xa39552a5]
+- Eagle Strafing Run [0xa7619b75]
+- Eagle Airstrike [0x49cfda04]
+- Eagle Cluster Bomb [0xd9efc7d3]
+- Eagle Smoke Strike [0x6472975a]
+- Eagle Napalm Airstrike [0x799a07db]
+- Eagle 110mm Rocket Pods [0x76031695]
+- Eagle 500kg Bomb [0xf583b70b]
+- MG-43 Machine Gun [0x1b4f8fa2]
+- M-105 Stalwart [0x00dae676]
+- APW-1 Anti-Materiel Rifle [0x83970a39]
+- EAT-17 Expendable Anti-Tank [0xcb778090]
+- GR-8 Recoilless Rifle [0x4d67103d]
+- FLAM-40 Flamethrower [0x5563504d]
+- AC-8 Autocannon [0x342fd96b]
+- MG-206 Heavy Machine Gun [0x1fc9ca61]
+- MLS-4X Commando [0x8518b86b]
+- RL-77 Airburst Rocket Launcher [0x77adef81]
+- FAF-14 Spear [0xe9de8d7f]
+- RS-422 Railgun [0xb77a3f9d]
+- StA-X3 W.A.S.P. Launcher [0x351b2b3e]
+- LAS-98 Laser Cannon [0xa83cf95d]
+- GL-21 Grenade Launcher [0xc74c740d]
+- ARC-3 Arc Thrower [0x3b21ee6a]
+- LAS-99 Quasar Cannon [0x9c77755b]
+- TX-41 Sterilizer [0xf77d6b07]
+- CQC-1 One True Flag [0x8703e7b7]
+- GL-52 De-Escalator [0x092b178b]
+- PLAS-45 Epoch [0xfe02c2e3]
+- S-11 Speargun [0x14118731]
+- EAT-700 Expendable Napalm [0x6c19dd47]
+- MS-11 Solo Silo [0x4fb52679]
+- CQC-9 Defoliation Tool [0xd4e8c390]
+- M-1000 Maxigun [0xcdfbf3c2]
+- B/MD C4 Pack [0xdf6c920a]
+- CQC-20 Breaching Hammer [0xc682a504]
+- EAT-411 Leveller [0xaeefca37]
+- GL-28 Belt-Fed Grenade Launcher [0x1e86bfc1]
+- B/FLAM-80 Cremator [0x8763e173]
+- MGX-42 Bullet Storm [0xc40048d8]
+- 40-K Meltagun [0x2e2e6fd8]
+- EXO-49 Emancipator Exosuit [0x4ceb772f]
+- EXO-45 Patriot Exosuit [0x119ef38f]
+- M-102 Gunner FRV [0xea902c4b]
+- TD-220 Bastion MK XVI [0x7756f32c]
+- EXO-55 Breakthrough Exosuit [0x219bb243]
+- EXO-51 Lumberer Exosuit [0xb7f54989]
+- B-1 Supply Pack [0x71b6d7da]
+- LIFT-850 Jump Pack [0x68835223]
+- SH-20 Ballistic Shield Backpack [0xc7e2797b]
+- AX/AR-23 Guard Dog [0x1cf5bd48]
+- AX/LAS-5 Rover [0x38be3206]
+- SH-32 Shield Generator Pack [0xe51a48f4]
+- SH-51 Directional Shield [0x103db8dc]
+- AX/FLAM-75 Hot Dog [0x4312d593]
+- B-100 Portable Hellbomb [0x3ecc4bae]
+- AX/ARC-3 K-9 [0x64dbeffc]
+- LIFT-860 Hover Pack [0x04610b4d]
+- AX/TX-13 Dog Breath [0x004f214c]
+- LIFT-182 Warp Pack [0x823d2463]
+- A/MG-43 Machine Gun Sentry [0xfcb5ffa9]
+- A/G-16 Gatling Sentry [0x2528336d]
+- A/AC-8 Autocannon Sentry [0x32ef9ab3]
+- A/M-12 Mortar Sentry [0x5e52ffca]
+- A/MLS-4X Rocket Sentry [0x2ac7580f]
+- A/ARC-3 Tesla Tower [0x8f349f3b]
+- A/M-23 EMS Mortar Sentry [0xb7e90b5a]
+- A/LAS-98 Laser Sentry [0x393e6019]
+- A/FLAM-40 Flame Sentry [0x1c4bb6bd]
+- A/GM-17 Gas Mortar Sentry [0xbdbde856]
+- MD-6 Anti-Personnel Minefield [0x00c19c58]
+- MD-I4 Incendiary Mines [0xa371c29d]
+- MD-17 Anti-Tank Mines [0x8577190e]
+- FX-12 Shield Generator Relay [0x880384ff]
+- E/MG-101 HMG Emplacement [0xae094363]
+- E/GL-21 Grenadier Battlement [0x93d3c05c]
+- MD-8 Gas Mines [0x26640a59]
+- E/AT-12 Anti-Tank Emplacement [0x2d741bf8]
+
+### Cosmetics
+
+- FS-37 Ravager / Armour [0x1f9bfa78]
+- FS-37 Ravager / Helmet [0x7934ed8b]
+- FS-55 Devastator / Armour [0xd3461392]
+- FS-55 Devastator / Helmet [0x056848e9]
+- CW-4 Arctic Ranger / Armour [0xb92e1781]
+- CW-4 Arctic Ranger / Helmet [0x63aa42c5]
+- CW-22 Kodiak / Armour [0x69bc2d4a]
+- CW-22 Kodiak / Helmet [0x91d773c8]
+- SA-25 Steel Trooper / Armour [0xdae4a744]
+- SA-25 Steel Trooper / Helmet [0xa3a7e93d]
+- SA-12 Servo-Assisted / Armour [0xf2b7d3f5]
+- SA-12 Servo-Assisted / Helmet [0x8cd3973b]
+- SA-32 Dynamo / Armour [0x3c3ebaf0]
+- SA-32 Dynamo / Helmet [0xf3bcf18e]
+- CE-74 Breaker / Armour [0x26bf31fe]
+- CE-74 Breaker / Helmet [0xee2e8ce0]
+- AF-91 Field Chemist / Armour [0x135c4274]
+- AF-91 Field Chemist / Armour [0x6b619174]
+- AF-91 Field Chemist / Armour [0x732693a1]
+- AF-91 Field Chemist / Helmet [0x8c6b78e3]
+- AF-91 Field Chemist / Helmet [0x0fb65a0e]
+- AF-91 Field Chemist (variant) / Helmet [0xf6ae9439]
+- AF-91 Field Chemist (variant) / Helmet [0xfe3437e9]
+- CE-35 Trench Engineer / Armour [0xfb4b1254]
+- CE-35 Trench Engineer / Helmet [0xaffb955b]
+- CE-67 Titan / Armour [0xf34064ac]
+- CE-67 Titan / Helmet [0x97d7668f]
+- CE-27 Ground Breaker / Armour [0x7edf6505]
+- CE-27 Ground Breaker / Helmet [0xac5d49f9]
+- CM-09 Bonesnapper / Armour [0x1c6c05fa]
+- CM-09 Bonesnapper / Helmet [0xc25abb74]
+- CM-21 Trench Paramedic / Armour [0xd52bb413]
+- CM-21 Trench Paramedic / Helmet [0xbd1e5e84]
+- CM-17 Butcher / Armour [0x95903adf]
+- CM-17 Butcher / Helmet [0xa67010e7]
+- CM-10 Clinician / Armour [0x7a07031f]
+- CM-10 Clinician / Helmet [0xb18b6c66]
+- UF-84 Doubt Killer / Armour [0xa574d33d]
+- UF-84 Doubt Killer / Helmet [0x12832e96]
+- FS-61 Dreadnought / Armour [0x537e8e45]
+- FS-61 Dreadnought / Helmet [0x2e15716b]
+- CE-07 Demolition Specialist / Armour [0x5a17d6d6]
+- CE-07 Demolition Specialist / Helmet [0x65c07df2]
+- SC-15 Drone Master / Armour [0xf57d61ce]
+- SC-15 Drone Master / Helmet [0x8166c1cc]
+- FS-38 Eradicator / Armour [0x20a85cc1]
+- FS-38 Eradicator / Helmet [0xda64ee0d]
+- EX-03 Prototype 3 / Armour [0x24e3d6ba]
+- EX-03 Prototype 3 / Helmet [0x8abccc54]
+- EX-16 Prototype 16 / Armour [0xaa32b384]
+- ex 16 prototype 16 / Helmet [0x212df664]
+- FS-34 Exterminator / Armour [0x8bd85dd2]
+- FS-34 Exterminator / Helmet [0x38b05b83]
+- DP-40 Hero of the Federation / Armour [0xb513fd54]
+- DP-40 Hero of the Federation / Helmet [0x5c3087d2]
+- DP-11 Champion of the People / Armour [0xe3aaa79d]
+- DP-11 Champion of the People / Helmet [0xef6d2ad3]
+- CM-14 Physician / Armour [0x38aa207d]
+- CM-14 Physician Armor / Helmet [0x203f720c]
+- B-27 Fortified Commando / Armour [0xd2c578e1]
+- B-27 Fortified Commando / Helmet [0xd11da85b]
+- TBD / Armour [0x9f212504]
+- TBD / Helmet [0xa57e78ba]
+- EX-00 Prototype X / Armour [0xd7b2fd5d]
+- EX-00 Prototype X / Helmet [0xd1a64ac3]
+- CE-81 Juggernaut / Armour [0x97cf0a8a]
+- CE-81 Juggernaut / Helmet [0xfcde237a]
+- DP-8 Mountain-Scaled / Armour [0xa9a71fe7]
+- DP-8 Mountain-Scaled / Helmet [0xb19d6c0a]
+- SC-37 Legionnaire / Armour [0xc2a2375f]
+- SC-37 Legionnaire / Armour [0x14209e3a]
+- SC-37 Legionnaire / Armour [0x9bc153c0]
+- SC-37 Legionnaire (variant) / Helmet [0xe406ced0]
+- SC-37 Legionnaire / Helmet [0x5facabb9]
+- SC-37 Legionnaire (variant) / Helmet [0x44d93620]
+- CM-09 Bonesnapper / Armour [0x7d96d0c6]
+- CM-09 Bonesnapper / Helmet [0x4db09ca4]
+- B-08 Light Gunner / Armour [0x1d20d6ee]
+- B-08 Light Gunner / Helmet [0x48226e8f]
+- A-9 Helljumper / Armour [0x16e1b9d3]
+- A-9 Helljumper / Helmet [0x9f3f8a17]
+- A-35 Recon / Armour [0xd879973a]
+- A-35 Recon / Helmet [0xb407147e]
+- DP-53 Savior of the Free / Armour [0xfd456de0]
+- DP-53 Savior of the Free / Helmet [0x085838c1]
+- SC-30 Trailblazer Scout / Armour [0x756159e4]
+- SC-30 Trailblazer Scout / Armour [0x1d60fc90]
+- SC-30 Trailblazer Scout / Helmet [0x7fa29b61]
+- SC-30 Trailblazer Scout (variant) / Helmet [0x9b5bc520]
+- SC-30 Trailblazer Scout (variant) / Helmet [0xdb7db6aa]
+- SC-30 Trailblazer Scout / Helmet [0x5aaf5d66]
+- SC-30 Trailblazer Scout (variant) / Helmet [0x8507bb35]
+- SC-30 Trailblazer Scout (variant) / Helmet [0x020a57a8]
+- SC-30 Trailblazer Scout (variant) / Helmet [0x52045a9b]
+- SC-30 Trailblazer Scout (variant) / Helmet [0x782087b2]
+- B-24 Enforcer / Armour [0x8b9ed77d]
+- B-24 Enforcer / Armour [0x803276ce]
+- B-24 Enforcer / Armour [0xac0adecd]
+- B-24 Enforcer / Helmet [0x41211c7f]
+- FS-05 Marksman / Armour [0x076d9aad]
+- FS-05 Marksman / Armour [0x58dbdacd]
+- FS-05 Marksman / Armour [0xecabadbf]
+- FS-05 Marksman / Helmet [0x0f41a67e]
+- FS-05 Marksman / Helmet [0x7b6406da]
+- FS-05 Marksman / Helmet [0x36456057]
+- FS-05 Marksman / Helmet [0x529efe65]
+- FS-05 Marksman / Helmet [0xd915a671]
+- FS-05 Marksman / Helmet [0xe417ae7b]
+- FS-05 Marksman / Helmet [0x4452e375]
+- FS-05 Marksman / Helmet [0x0c0af708]
+- FS-11 Executioner / Armour [0x77947add]
+- FS-11 Executioner / Helmet [0x5642fa1a]
+- SC-34 Infiltrator / Armour [0x5bb4bbb0]
+- SC-34 Infiltrator (variant) / Helmet [0x5c1a87d2]
+- SC-34 Infiltrator (variant) / Helmet [0x68aa2d85]
+- SC-34 Infiltrator / Helmet [0xda8bbeaa]
+- SC-34 Infiltrator (variant) / Helmet [0x126f9cb6]
+- SC-34 Infiltrator (variant) / Helmet [0x0542e6f1]
+- SC-34 Infiltrator (variant) / Helmet [0xb6a2f46a]
+- SC-34 Infiltrator (variant) / Helmet [0xa2f4f328]
+- B-01 Tactical / Armour [0x250fd6c1]
+- B-01 Tactical / Armour [0x1d0e3431]
+- B-01 Tactical / Armour [0x708451e9]
+- B-01 Tactical / Armour [0x61b31723]
+- B-01 Tactical / Armour [0x4f7fb2bd]
+- B-01 Tactical / Armour [0x6351a9aa]
+- B-01 Tactical / Armour [0x6d30f386]
+- B-01 Tactical / Armour [0xd59566d5]
+- B-01 Tactical / Armour [0x1369b95b]
+- B-01 Tactical / Helmet [0x2180eb8d]
+- B-01 Tactical / Helmet [0x4f6ccd6c]
+- B-01 Tactical / Helmet [0x40a7d694]
+- TBD / Helmet [0x8ce73dae]
+- B-01 Tactical / Helmet [0x69b2ec39]
+- B-01 Tactical / Helmet [0x261c4a52]
+- B-01 Tactical / Helmet [0x45d80a38]
+- B-01 Tactical / Helmet [0xb4027b70]
+- B-01 Tactical / Helmet [0xdf8e4ada]
+- B-01 Tactical / Helmet [0xee7019ed]
+- B-01 Tactical / Helmet [0xe207c84a]
+- B-01 Tactical / Helmet [0x10707d29]
+- B-01 Tactical / Helmet [0xfdbf4741]
+- B-01 Tactical / Helmet [0xb638f3c4]
+- B-01 Tactical / Helmet [0x843df174]
+- AF-52 Lockdown / Armour [0xf6303500]
+- AF-52 Lockdown / Helmet [0x9ad6358e]
+- AF-91 Field Chemist / Armour [0x100a5dcd]
+- AF-91 Field Chemist / Helmet [0xdf5f7ccb]
+- UF-84 Doubt Killer / Armour [0x2521d401]
+- UF-84 Doubt Killer / Helmet [0x05720b46]
+- SR-64 Cinderblock / Armour [0x5096bce9]
+- SR-64 Cinderblock / Helmet [0x735a0c0b]
+- IE-57 Hell-Bent / Armour [0xe1d53693]
+- IE-57 Hell-Bent / Helmet [0x930dc02f]
+- GS-11 Democracy's Deputy / Armour [0x407ab98a]
+- GS-11 Democracy's Deputy / Helmet [0x58d5cd85]
+- RE-824 Bearer of the Standard / Armour [0xfde8f657]
+- RE-824 Bearer of the Standard / Helmet [0xa8bf0ccb]
+- AD-11 Livewire / Armour [0xf8fadb6c]
+- AD-11 Livewire / Helmet [0x24e765ba]
+- BP-77 Grand Juror / Armour [0xf4598295]
+- BP-77 Grand Juror / Helmet [0x1805a245]
+- DS-10 Big Game Hunter / Armour [0xc60c706d]
+- DS-10 Big Game Hunter / Helmet [0x52791e64]
+- CW-9 White Wolf / Armour [0xb3deb5d9]
+- CW-9 White Wolf / Helmet [0x7c59469b]
+- CE-64 Grenadier / Armour [0x674671a0]
+- CE-64 Grenadier / Helmet [0x4e0785ae]
+- PH-56 Jaguar / Armour [0x23d0e15c]
+- PH-56 Jaguar / Helmet [0xf06ad8d7]
+- CE-101 Guerilla Gorilla  / Armour [0xdee800a8]
+- CE-101 Guerilla Gorilla / Helmet [0x89b1b9e3]
+- I-44 Salamander / Armour [0x223a3b4b]
+- I-44 Salamander / Helmet [0xd0ce5bc7]
+- I-92 Fire Fighter / Armour [0x8c83c789]
+- I-92 Fire fighter / Helmet [0xfd428984]
+- RS-6 Fiend Destroyer / Armour [0x98e86082]
+- RS-6 Fiend Destroyer / Helmet [0xbd177f77]
+- O-44 BONDED PILOT / Armour [0xbc5cf836]
+- O-44 Bonded Pilot / Helmet [0x41dd184d]
+- RS-100 SANCTIONER / Armour [0x4dd749c6]
+- RS-100 Sanctioner / Helmet [0x47bcec20]
+- BFM-77 REFORMER / Armour [0x3412f5e4]
+- BFM-77 Reformer / Helmet [0xede9d6b7]
+- CPR-80 Bulwark / Armour [0x9c0bbe91]
+- CPR-80 Bulwark / Helmet [0xa5574ac2]
+- SA-04 Combat Technician / Armour [0xc9d2ad39]
+- SA-04 Combat Technician / Helmet [0x4e8f9f4f]
+- Unidentified kit / Armour [0x1348e7c7]
+- AF-50 Noxious Ranger / Armour [0x5cc09255]
+- AF-50 Noxious Ranger / Helmet [0xde575ea9]
+- AF-02 Haz-Master / Armour [0xe9add047]
+- AF-02 Haz-Master / Helmet [0x2f748b84]
+- UF-50 Bloodhound / Armour [0xb3550d20]
+- UF-50 Bloodhound / Helmet [0x0e3b10bf]
+- UF-16 Inspector / Armour [0xb661572a]
+- UF-16 Inspector / Helmet [0xd270fccc]
+- SR-24 Street Scout / Armour [0x05e56ee5]
+- SR-24 Street Scout / Helmet [0x93ad3833]
+- SR-18 Roadblock / Armour [0xd63ffdd3]
+- SR-18 Roadblock / Helmet [0xdc7304b9]
+- IE-3 Martyr / Armour [0xb028b970]
+- IE-3 Martyr / Helmet [0x542c752e]
+- IE-12 Righteous / Armour [0x9fa96490]
+- IE-12 Righteous / Helmet [0x8af14536]
+- GS-17 Frontier Marshal / Armour [0x16eeb860]
+- GS-17 Frontier Marshall / Helmet [0xf646f083]
+- GS-66 Lawmaker / Armour [0xb482b460]
+- GS-66 Lawmaker / Helmet [0x24fdb2c0]
+- RE-2310 Honorary Guard / Armour [0x30e54b57]
+- RE-2310 Honorary Guard / Helmet [0x6809ad22]
+- RE-1861 Parade Commander / Armour [0xc71dbba4]
+- RE-1861 Parade Commander / Helmet [0x677bee02]
+- AD-26 Bleeding Edge / Armour [0x01c2a674]
+- AD-26 Bleeding Edge / Helmet [0xdcce533f]
+- AD-49 Apollonian / Armour [0x0a18c237]
+- AD-49 Apollonian / Helmet [0xf8c6437f]
+- BP-20 Correct Officer / Armour [0x40c6635c]
+- BP-20 Correct Officer / Helmet [0x3b5af7c7]
+- BP-32 Jackboot / Armour [0x09b08ec4]
+- BP-32 Jackboot / Helmet [0x7fa97f66]
+- DS-42 Federation's Blade / Armour [0x4a545f06]
+- DS-42 Federation's Blade / Helmet [0xee2e3efa]
+- DS-191 Scorpion / Armour [0x0ade6719]
+- DS-191 Scorpion / Helmet [0xf2dcc254]
+- RS-20 Constrictor / Armour [0xec4638af]
+- RS-20 Constrictor / Helmet [0xe4e2b61b]
+- RS-40 Beast of Prey / Armour [0xdbc21a99]
+- RS-40 Beast of Prey / Helmet [0xed2350ca]
+- SA-7 Headfirst / Armour [0xc7a5782f]
+- SA-7 Headfirst / Helmet [0x9e987d5e]
+- SA-8 Ram / Armour [0xb69df10d]
+- SA-8 Ram / Helmet [0x790c1b61]
+- PH-9 Predator / Armour [0x72b472a7]
+- PH-9 Predator / Helmet [0x1b2fde48]
+- PH-202 Twigsnapper / Armour [0xde631a28]
+- PH-202 Twigsnapper / Helmet [0x57a7f31d]
+- I-09 Heatseeker / Armour [0x2d1dd830]
+- I-09 Heatseeker / Helmet [0xb1d021ff]
+- I-102 Draconaught / Armour [0x5662c173]
+- I-102 Draconaught / Helmet [0x73893816]
+- AC-1 Dutiful / Armour [0xac4235b3]
+- AC-1 Dutiful / Helmet [0xae8f7b4c]
+- AC-2 Obedient / Armour [0x55fd699b]
+- AC-2 Obedient / Helmet [0x289884f4]
+- O-3 Free Spirit / Armour [0xf7e6f127]
+- O-3 Free Spirit / Helmet [0x8d06ea5a]
+- O-2 Heavy Operator / Armour [0x2e706db8]
+- O-2 Heavy Operator / Helmet [0xe1ca6837]
+- TG-8 Sharpshooter / Armour [0x5d0d8002]
+- TG-8 Sharpshooter / Helmet [0x0b66fc55]
+- TG-122 Demo-Trooper / Armour [0xa45385cd]
+- TG-122 Demo-Trooper / Helmet [0xc1611ac9]
+- RS-89 SHADOW PARAGON / Armour [0xaed67d10]
+- RS-89 Shadow Paragon / Helmet [0xd05754cd]
+- RS-67 Null Cipher / Armour [0xca092176]
+- RS-67 Null Cipher / Helmet [0x58716e11]
+- BFM-16 TANKER / Armour [0x8c6ae37c]
+- BFM-16 Tanker / Helmet [0x2d61f0f9]
+- BFM-220 Ironclad / Armour [0xf8b8cf9b]
+- BFM-220 Ironclad / Helmet [0x37c61642]
+- CPG-48 SAPPER / Armour [0x5f075dc5]
+- CPG-48 Sapper / Helmet [0xfdb93622]
+- CPH-26 COMMANDANT / Armour [0x242702a5]
+- CPH-26 Commandant / Helmet [0x37442029]
+- FS-23 Battle Master / Armour [0x26d572a4]
+- FS-23 Battle Master / TR-62 Knight / Helmet [0x1e9444f9]
+- CW-36 Winter Warrior / Armour [0x0b5cd386]
+- CW-36 Winter Warrior / Helmet [0xcd3d20dc]
+- Tyrant Hunter / Cape [0x4100af4b]
+- Bastion of Integrity / Cape [0x9e29ea2f]
+- Cloak of Posterity's Gratitude / Cape [0xd6768531]
+- Botslayer / Cape [0x2bcc4463]
+- Martyris Rex / Cape [0xc1105fbc]
+- Unidentified kit / Cape [0x0beb97bc]
+- Agent of Oblivion / Cape [0xf509b363]
+- Beacon of Mercy / Cape [0x651133dd]
+- Eagle's Fury / Cape [0x79a037c0]
+- Judgement Day / Cape [0xc24b74f5]
+- Blazing Samaritan / Cape [0xf8ea01ad]
+- The Cape of Stars and Suffrage / Cape [0xee755525]
+- JUSTICE FOR ALL / Cape [0xd79370cb]
+- Will of the People / Cape [0x77ae3af0]
+- Mantle of True Citizenship / Cape [0x32451e35]
+- Freedom's Tapestry / Cape [0x7d1003d0]
+- Harbinger of True Equality / Cape [0x1264718e]
+- Unidentified kit / Cape [0x5a32915a]
+- Prosperous Green / Cape [0xe3cfd2fb]
+- Unidentified kit / Cape [0x1fe1655f]
+- Red Planet's Memory / Cape [0x9ce65da7]
+- Proud Gold / Cape [0xf523f265]
+- Patriot Blue / Cape [0x06ce8d18]
+- Unidentified kit / Cape [0xacef36f7]
+- Bugslayer / Cape [0x7870337b]
+- Cover of Darkness / Cape [0x03f9d46b]
+- Stone-Wrought Perseverance / Cape [0x42f33241]
+- Vision of Freedom / Cape [0x457526d1]
+- Veil of the Valorous Vagabond / Cape [0x1af6ba63]
+- Seal of General Consensus / Cape [0x9fb9d7b0]
+- Schema Laid Bare / Cape [0xf625724c]
+- Badge of Order / Cape [0xb545a9bf]
+- Eternal Corona / Cape [0xf511b688]
+- Unidentified kit / Cape [0x5eb11243]
+- Scraps of Sovereignty / Cape [0xef4fa522]
+- De-Forester's Sailcloth / Cape [0x10fd9607]
+- Diagram of the Noblest Payload / Cape [0xa7945016]
+- Gilded Quill / Cape [0xd3e885ce]
+- Tread of Liberty / Cape [0x1a0297e0]
+- Testament To Attrition / Cape [0xb46ba4f4]
+- Standard of Safe Distance / Cape [0x14712621]
+- Patient Zero's Rememberance / Cape [0xfc920ae4]
+- Pride of the Whistleblower / Cape [0x43265392]
+- Proof of Faultless Virtue / Cape [0xec5c680e]
+- Greatcloak of Rebar Resolve / Cape [0xd1c109de]
+- Holder of the Yellow Line / Cape [0xf89e3f1e]
+- Fre Liberum / Cape [0x391bc756]
+- Per Democrasum / Cape [0x08cbb74b]
+- Reaper of Bounties / Cape [0xbca406f6]
+- Covering Fire / Cape [0x3a28a2e7]
+- Federation's Embrace / Cape [0x1b3bd8a1]
+- Humble Regalia / Cape [0x55d5144b]
+- Conductor of Brilliance / Cape [0xebb26e73]
+- Over Artifice Triumphant / Cape [0x1674440a]
+- Miranda's Legacy / Cape [0x4470f6ff]
+- Mother Eagle's Wings / Cape [0x3bf70de7]
+- Rightful Occupier / Cape [0x30d1157a]
+- Windswept Wayfinder / Cape [0x7eee690b]
+- Dissident's Nightmare / Cape [0xff46327a]
+- Pinions of Everlasting Glory / Cape [0xab29952a]
+- Order of the Venerated Ballot / Cape [0xe8072038]
+- Mark of the Crimson Fang / Cape [0x9dbd09d7]
+- Executioner's Canopy / Cape [0x115d8156]
+- Purifying Eclipse / Cape [0x099116e7]
+- The Breach / Cape [0xe67e5867]
+- Vector of Victory / Cape [0xbed85953]
+- Podium of Prosperity / Cape [0x144c1d6f]
+- Strength in our Arms / Cape [0x38068beb]
+- Defender of our dream / Cape [0x4260b28c]
+- Foe Rent Asunder / Cape [0xf35eca5b]
+- Mark of the Constrictor / Cape [0x64d8ba07]
+- Free-Spirited Spangles / Cape [0x86ca918c]
+- Watchful Compatriot / Cape [0xba9e281b]
+- Honored Heirloom / Cape [0x52f858a8]
+- Eye of the Clandestine / Cape [0xe4c12748]
+- Camo Cloak / Cape [0x724501be]
+- City Fighter's Resolve / Cape [0x9a42a639]
+- Rags of the Fashionable / Cape [0x9488c3db]
+- Wedgeful Tricorn / Cape [0x22ecc10e]
+- Pillar of the Abyss / Cape [0x4f079d05]
+- Triangulation Veil / Cape [0x06d37083]
+- Standard of Rapid Evacuation / Cape [0x4dcec343]
+- Shroud of the Juggernaut / Cape [0x8a1d4c1c]
+- Dignity of Toil / Cape [0x9cc5cc35]
+- Crest of the Unsullied / Cape [0x3d7e4ac7]
+- Tideturner / Cape [0x8a5ec750]
+- Tyranny's Bane / Cape [0xb64637ab]
+- Agent of Oblivion / Cape [0x175295c9]
+- Pillars of Freedom / Cape [0xbd961a7c]
+- Unblemished Allegiance / Cape [0xf5dd3c6f]
+- Light of Eternal Liberty / Cape [0x6e72f493]
+- Cresting Honor / Cape [0x53b64bf8]
+- Liberty's Herald / Cape [0xd45f0974]
+- Foe Smasher / Cape [0x4657cfb3]
+- Independence Bringer / Cape [0x2cd5cfb0]
+- Drape of Glory / Cape [0xc83b625e]
+- Wings of Valor / Cape [0x6ab440fa]
+- Eagle's Fury / Cape [0x110b2608]
+- Unblemished Allegiance / Cape [0xa5a700cb]
+- Drape of Glory / Cape [0x06b9be43]
+- Unidentified kit / Cape [0x0b84e99d]
